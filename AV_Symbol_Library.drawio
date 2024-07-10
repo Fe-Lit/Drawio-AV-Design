@@ -1,0 +1,1557 @@
+<mxfile host="Electron" modified="2024-07-10T12:10:12.254Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/24.6.4 Chrome/124.0.6367.207 Electron/30.0.6 Safari/537.36" etag="6iBXMjfuk3x-F51ydnPE" version="24.6.4" type="device">
+  <diagram name="Seite-1" id="6DMTvxTgEzmBNX2_uj4O">
+    <mxGraphModel dx="2837" dy="1869" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" value="Devices" parent="0" />
+        <UserObject label="BMD ATEM&lt;div style=&quot;font-size: 13px;&quot;&gt;TV Studio 4K&lt;/div&gt;" tags="Transmission" id="S-b6S_9472XG3xAtmPIh-1">
+          <mxCell style="swimlane;fontStyle=1;childLayout=stackLayout;horizontal=1;startSize=30;fillColor=#d5e8d4;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;html=1;fontSize=13;points=[];strokeColor=#82b366;rounded=1;" parent="1" vertex="1">
+            <mxGeometry x="-700" y="-640" width="140" height="498" as="geometry">
+              <mxRectangle x="380" y="243" width="120" height="40" as="alternateBounds" />
+            </mxGeometry>
+          </mxCell>
+        </UserObject>
+        <UserObject label="IP:" tags="" id="S-b6S_9472XG3xAtmPIh-5">
+          <mxCell style="text;strokeColor=#666666;fillColor=#f5f5f5;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;fontColor=#333333;" parent="S-b6S_9472XG3xAtmPIh-1" vertex="1">
+            <mxGeometry y="30" width="140" height="26" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="Info:" tags="" id="S-b6S_9472XG3xAtmPIh-4">
+          <mxCell style="text;strokeColor=#666666;fillColor=#f5f5f5;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;fontColor=#333333;" parent="S-b6S_9472XG3xAtmPIh-1" vertex="1">
+            <mxGeometry y="56" width="140" height="26" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="Ethernet RJ45" tags="" id="8GhMJ2vR7fBs7lWXIUBx-13">
+          <mxCell style="text;strokeColor=default;fillColor=default;align=center;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;labelBorderColor=none;rounded=0;glass=0;part=0;" parent="S-b6S_9472XG3xAtmPIh-1" vertex="1">
+            <mxGeometry y="82" width="140" height="26" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="Input" tags="" id="S-b6S_9472XG3xAtmPIh-6">
+          <mxCell style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=#FFE599;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;html=1;rounded=0;swimlaneFillColor=#FFFFC9;points=[];" parent="S-b6S_9472XG3xAtmPIh-1" vertex="1">
+            <mxGeometry y="108" width="140" height="234" as="geometry">
+              <mxRectangle y="82" width="140" height="30" as="alternateBounds" />
+            </mxGeometry>
+          </mxCell>
+        </UserObject>
+        <UserObject label="SDI 1&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;" tags="" id="S-b6S_9472XG3xAtmPIh-2">
+          <mxCell style="text;strokeColor=default;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" parent="S-b6S_9472XG3xAtmPIh-6" vertex="1">
+            <mxGeometry y="26" width="140" height="26" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="SDI 2" tags="" id="S-b6S_9472XG3xAtmPIh-7">
+          <mxCell style="text;strokeColor=default;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" parent="S-b6S_9472XG3xAtmPIh-6" vertex="1">
+            <mxGeometry y="52" width="140" height="26" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="SDI 3" tags="" id="Z0n82deFkCdibXW4L0bi-14">
+          <mxCell style="text;strokeColor=default;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" parent="S-b6S_9472XG3xAtmPIh-6" vertex="1">
+            <mxGeometry y="78" width="140" height="26" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="SDI 4" tags="" id="Z0n82deFkCdibXW4L0bi-13">
+          <mxCell style="text;strokeColor=default;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" parent="S-b6S_9472XG3xAtmPIh-6" vertex="1">
+            <mxGeometry y="104" width="140" height="26" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="SDI 5" tags="" id="Z0n82deFkCdibXW4L0bi-15">
+          <mxCell style="text;strokeColor=default;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" parent="S-b6S_9472XG3xAtmPIh-6" vertex="1">
+            <mxGeometry y="130" width="140" height="26" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="SDI 6&lt;div&gt;&lt;br&gt;&lt;/div&gt;" tags="" id="Z0n82deFkCdibXW4L0bi-16">
+          <mxCell style="text;strokeColor=default;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" parent="S-b6S_9472XG3xAtmPIh-6" vertex="1">
+            <mxGeometry y="156" width="140" height="26" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="SDI 7&lt;div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;" tags="" id="S-b6S_9472XG3xAtmPIh-8">
+          <mxCell style="text;strokeColor=default;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" parent="S-b6S_9472XG3xAtmPIh-6" vertex="1">
+            <mxGeometry y="182" width="140" height="26" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="SDI 8" tags="" id="Z0n82deFkCdibXW4L0bi-25">
+          <mxCell style="text;strokeColor=default;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" parent="S-b6S_9472XG3xAtmPIh-6" vertex="1">
+            <mxGeometry y="208" width="140" height="26" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="Genlock" tags="" id="S-b6S_9472XG3xAtmPIh-3">
+          <mxCell style="text;strokeColor=default;fillColor=default;align=center;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5,0,0,0],[1,0.5,0,0,0]];portConstraint=eastwest;whiteSpace=wrap;html=1;labelBorderColor=none;rounded=0;glass=0;part=0;" parent="S-b6S_9472XG3xAtmPIh-1" vertex="1">
+            <mxGeometry y="342" width="140" height="26" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="Output" tags="" id="S-b6S_9472XG3xAtmPIh-10">
+          <mxCell style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=#C1C6F0;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;html=1;strokeColor=#82b366;rounded=0;swimlaneFillColor=#E0E0FF;connectable=0;" parent="S-b6S_9472XG3xAtmPIh-1" vertex="1">
+            <mxGeometry y="368" width="140" height="130" as="geometry">
+              <mxRectangle y="238" width="140" height="30" as="alternateBounds" />
+            </mxGeometry>
+          </mxCell>
+        </UserObject>
+        <UserObject label="PGM" tags="" id="S-b6S_9472XG3xAtmPIh-11">
+          <mxCell style="text;strokeColor=default;fillColor=none;align=right;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" parent="S-b6S_9472XG3xAtmPIh-10" vertex="1">
+            <mxGeometry y="26" width="140" height="26" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="AUX" tags="" id="S-b6S_9472XG3xAtmPIh-12">
+          <mxCell style="text;strokeColor=default;fillColor=none;align=right;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;labelBackgroundColor=none;labelPosition=center;verticalLabelPosition=middle;" parent="S-b6S_9472XG3xAtmPIh-10" vertex="1">
+            <mxGeometry y="52" width="140" height="26" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="Multiview HDMI" tags="" id="S-b6S_9472XG3xAtmPIh-13">
+          <mxCell style="text;strokeColor=default;fillColor=none;align=right;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" parent="S-b6S_9472XG3xAtmPIh-10" vertex="1">
+            <mxGeometry y="78" width="140" height="26" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="Multiview SDI" tags="" id="Z0n82deFkCdibXW4L0bi-47">
+          <mxCell style="text;strokeColor=default;fillColor=none;align=right;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" parent="S-b6S_9472XG3xAtmPIh-10" vertex="1">
+            <mxGeometry y="104" width="140" height="26" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="BMD MiniCon&lt;div style=&quot;font-size: 13px;&quot;&gt;SDI Distribution&lt;/div&gt;" tags="Transmission" id="ZXnuHp_Xxv1iU5g6jzHX-4">
+          <mxCell style="swimlane;fontStyle=1;childLayout=stackLayout;horizontal=1;startSize=30;fillColor=#d5e8d4;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;html=1;fontSize=13;points=[];strokeColor=#82b366;rounded=1;" parent="1" vertex="1">
+            <mxGeometry x="-470" y="-640" width="140" height="316" as="geometry">
+              <mxRectangle x="380" y="243" width="120" height="40" as="alternateBounds" />
+            </mxGeometry>
+          </mxCell>
+        </UserObject>
+        <UserObject label="Info: PGM" tags="" id="ZXnuHp_Xxv1iU5g6jzHX-6">
+          <mxCell style="text;strokeColor=#666666;fillColor=#f5f5f5;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;fontColor=#333333;" parent="ZXnuHp_Xxv1iU5g6jzHX-4" vertex="1">
+            <mxGeometry y="30" width="140" height="26" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="SDI In" tags="" id="ZXnuHp_Xxv1iU5g6jzHX-16">
+          <mxCell style="text;strokeColor=#d6b656;fillColor=#FFE599;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5,0,0,0],[1,0.5,0,0,0]];portConstraint=eastwest;whiteSpace=wrap;html=1;" parent="ZXnuHp_Xxv1iU5g6jzHX-4" vertex="1">
+            <mxGeometry y="56" width="140" height="26" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="Output" tags="" id="ZXnuHp_Xxv1iU5g6jzHX-12">
+          <mxCell style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=#C1C6F0;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;html=1;strokeColor=#82b366;rounded=0;swimlaneFillColor=#E0E0FF;connectable=0;" parent="ZXnuHp_Xxv1iU5g6jzHX-4" vertex="1">
+            <mxGeometry y="82" width="140" height="234" as="geometry">
+              <mxRectangle y="82" width="140" height="30" as="alternateBounds" />
+            </mxGeometry>
+          </mxCell>
+        </UserObject>
+        <UserObject label="SDI 1" tags="" id="ZXnuHp_Xxv1iU5g6jzHX-13">
+          <mxCell style="text;strokeColor=default;fillColor=none;align=right;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" parent="ZXnuHp_Xxv1iU5g6jzHX-12" vertex="1">
+            <mxGeometry y="26" width="140" height="26" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="&lt;span style=&quot;font-size: 12.000001px;&quot;&gt;SDI 2&lt;/span&gt;" tags="" id="ZXnuHp_Xxv1iU5g6jzHX-14">
+          <mxCell style="text;strokeColor=default;fillColor=none;align=right;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;labelBackgroundColor=none;labelPosition=center;verticalLabelPosition=middle;" parent="ZXnuHp_Xxv1iU5g6jzHX-12" vertex="1">
+            <mxGeometry y="52" width="140" height="26" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="&lt;span style=&quot;font-size: 12.000001px;&quot;&gt;SDI 3&lt;/span&gt;" tags="" id="ZXnuHp_Xxv1iU5g6jzHX-15">
+          <mxCell style="text;strokeColor=default;fillColor=none;align=right;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" parent="ZXnuHp_Xxv1iU5g6jzHX-12" vertex="1">
+            <mxGeometry y="78" width="140" height="26" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="SDI 4" tags="" id="ZXnuHp_Xxv1iU5g6jzHX-17">
+          <mxCell style="text;strokeColor=default;fillColor=none;align=right;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" parent="ZXnuHp_Xxv1iU5g6jzHX-12" vertex="1">
+            <mxGeometry y="104" width="140" height="26" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="SDI 5" tags="" id="ZXnuHp_Xxv1iU5g6jzHX-18">
+          <mxCell style="text;strokeColor=default;fillColor=none;align=right;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" parent="ZXnuHp_Xxv1iU5g6jzHX-12" vertex="1">
+            <mxGeometry y="130" width="140" height="26" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="SDI 6" tags="" id="ZXnuHp_Xxv1iU5g6jzHX-19">
+          <mxCell style="text;strokeColor=default;fillColor=none;align=right;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" parent="ZXnuHp_Xxv1iU5g6jzHX-12" vertex="1">
+            <mxGeometry y="156" width="140" height="26" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="SDI 7" tags="" id="ZXnuHp_Xxv1iU5g6jzHX-20">
+          <mxCell style="text;strokeColor=default;fillColor=none;align=right;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" parent="ZXnuHp_Xxv1iU5g6jzHX-12" vertex="1">
+            <mxGeometry y="182" width="140" height="26" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="SDI 8" tags="" id="ZXnuHp_Xxv1iU5g6jzHX-21">
+          <mxCell style="text;strokeColor=default;fillColor=none;align=right;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;rounded=0;" parent="ZXnuHp_Xxv1iU5g6jzHX-12" vertex="1">
+            <mxGeometry y="208" width="140" height="26" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="BMD&lt;div style=&quot;font-size: 13px;&quot;&gt;Decklink 8k Pro&lt;/div&gt;" tags="" id="ZXnuHp_Xxv1iU5g6jzHX-22">
+          <mxCell style="swimlane;fontStyle=1;childLayout=stackLayout;horizontal=1;startSize=30;fillColor=#d5e8d4;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;html=1;fontSize=13;points=[];strokeColor=#82b366;rounded=1;" parent="1" vertex="1">
+            <mxGeometry x="-1260" y="401" width="140" height="186" as="geometry">
+              <mxRectangle x="380" y="243" width="120" height="40" as="alternateBounds" />
+            </mxGeometry>
+          </mxCell>
+        </UserObject>
+        <UserObject label="Info:" tags="" id="ZXnuHp_Xxv1iU5g6jzHX-23">
+          <mxCell style="text;strokeColor=#666666;fillColor=#f5f5f5;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;fontColor=#333333;" parent="ZXnuHp_Xxv1iU5g6jzHX-22" vertex="1">
+            <mxGeometry y="30" width="140" height="26" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="Genlock In" tags="" id="ZXnuHp_Xxv1iU5g6jzHX-34">
+          <mxCell style="text;strokeColor=default;fillColor=default;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;labelBorderColor=none;rounded=0;glass=0;part=0;" parent="ZXnuHp_Xxv1iU5g6jzHX-22" vertex="1">
+            <mxGeometry y="56" width="140" height="26" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="SDI 1" tags="" id="ZXnuHp_Xxv1iU5g6jzHX-29">
+          <mxCell style="text;strokeColor=default;fillColor=default;align=center;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" parent="ZXnuHp_Xxv1iU5g6jzHX-22" vertex="1">
+            <mxGeometry y="82" width="140" height="26" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="&lt;span style=&quot;font-size: 12.000001px;&quot;&gt;SDI 2&lt;/span&gt;" tags="" id="ZXnuHp_Xxv1iU5g6jzHX-28">
+          <mxCell style="text;strokeColor=default;fillColor=default;align=center;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" parent="ZXnuHp_Xxv1iU5g6jzHX-22" vertex="1">
+            <mxGeometry y="108" width="140" height="26" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="&lt;span style=&quot;font-size: 12.000001px;&quot;&gt;SDI 3&lt;/span&gt;" tags="" id="ZXnuHp_Xxv1iU5g6jzHX-27">
+          <mxCell style="text;strokeColor=default;fillColor=default;align=center;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;labelBackgroundColor=none;labelPosition=center;verticalLabelPosition=middle;" parent="ZXnuHp_Xxv1iU5g6jzHX-22" vertex="1">
+            <mxGeometry y="134" width="140" height="26" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="SDI 4" tags="" id="ZXnuHp_Xxv1iU5g6jzHX-26">
+          <mxCell style="text;strokeColor=default;fillColor=default;align=center;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;rounded=0;" parent="ZXnuHp_Xxv1iU5g6jzHX-22" vertex="1">
+            <mxGeometry y="160" width="140" height="26" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="BMD MicroCon&lt;div style=&quot;font-size: 13px;&quot;&gt;BiDi 3G&lt;/div&gt;" tags="" id="ZXnuHp_Xxv1iU5g6jzHX-35">
+          <mxCell style="swimlane;fontStyle=1;childLayout=stackLayout;horizontal=1;startSize=30;fillColor=#d5e8d4;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;html=1;fontSize=13;points=[];strokeColor=#82b366;rounded=1;swimlaneLine=1;" parent="1" vertex="1">
+            <mxGeometry x="-650" y="170" width="140" height="238" as="geometry">
+              <mxRectangle x="380" y="243" width="120" height="40" as="alternateBounds" />
+            </mxGeometry>
+          </mxCell>
+        </UserObject>
+        <UserObject label="Info:" tags="" id="ZXnuHp_Xxv1iU5g6jzHX-37">
+          <mxCell style="text;strokeColor=#666666;fillColor=#f5f5f5;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;fontColor=#333333;" parent="ZXnuHp_Xxv1iU5g6jzHX-35" vertex="1">
+            <mxGeometry y="30" width="140" height="26" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="USB C Power+Control" tags="" id="ZXnuHp_Xxv1iU5g6jzHX-68">
+          <mxCell style="text;strokeColor=#666666;fillColor=default;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;fontColor=#333333;" parent="ZXnuHp_Xxv1iU5g6jzHX-35" vertex="1">
+            <mxGeometry y="56" width="140" height="26" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="Input" tags="" id="ZXnuHp_Xxv1iU5g6jzHX-38">
+          <mxCell style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=#FFE599;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;html=1;rounded=0;swimlaneFillColor=#FFFFC9;points=[];" parent="ZXnuHp_Xxv1iU5g6jzHX-35" vertex="1">
+            <mxGeometry y="82" width="140" height="78" as="geometry">
+              <mxRectangle y="82" width="140" height="30" as="alternateBounds" />
+            </mxGeometry>
+          </mxCell>
+        </UserObject>
+        <UserObject label="SDI In&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;" tags="" id="ZXnuHp_Xxv1iU5g6jzHX-39">
+          <mxCell style="text;strokeColor=default;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" parent="ZXnuHp_Xxv1iU5g6jzHX-38" vertex="1">
+            <mxGeometry y="26" width="140" height="26" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="HDMI In" tags="" id="ZXnuHp_Xxv1iU5g6jzHX-40">
+          <mxCell style="text;strokeColor=default;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" parent="ZXnuHp_Xxv1iU5g6jzHX-38" vertex="1">
+            <mxGeometry y="52" width="140" height="26" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="Output" tags="" id="ZXnuHp_Xxv1iU5g6jzHX-43">
+          <mxCell style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=#C1C6F0;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;html=1;strokeColor=#82b366;rounded=0;swimlaneFillColor=#E0E0FF;connectable=0;" parent="ZXnuHp_Xxv1iU5g6jzHX-35" vertex="1">
+            <mxGeometry y="160" width="140" height="78" as="geometry">
+              <mxRectangle y="238" width="140" height="30" as="alternateBounds" />
+            </mxGeometry>
+          </mxCell>
+        </UserObject>
+        <UserObject label="SDI Out" tags="" id="ZXnuHp_Xxv1iU5g6jzHX-44">
+          <mxCell style="text;strokeColor=default;fillColor=none;align=right;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" parent="ZXnuHp_Xxv1iU5g6jzHX-43" vertex="1">
+            <mxGeometry y="26" width="140" height="26" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="HDMI Out" tags="" id="ZXnuHp_Xxv1iU5g6jzHX-45">
+          <mxCell style="text;strokeColor=default;fillColor=none;align=right;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;labelBackgroundColor=none;labelPosition=center;verticalLabelPosition=middle;" parent="ZXnuHp_Xxv1iU5g6jzHX-43" vertex="1">
+            <mxGeometry y="52" width="140" height="26" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="BMD MicroCon&lt;div style=&quot;font-size: 13px;&quot;&gt;HDMI -&amp;gt; SDI&lt;/div&gt;" tags="Transmission" id="ZXnuHp_Xxv1iU5g6jzHX-47">
+          <mxCell style="swimlane;fontStyle=1;childLayout=stackLayout;horizontal=1;startSize=30;fillColor=#d5e8d4;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;html=1;fontSize=13;points=[];strokeColor=#82b366;rounded=1;" parent="1" vertex="1">
+            <mxGeometry x="-810" y="410" width="140" height="212" as="geometry">
+              <mxRectangle x="380" y="243" width="120" height="40" as="alternateBounds" />
+            </mxGeometry>
+          </mxCell>
+        </UserObject>
+        <UserObject label="Info:" tags="" id="ZXnuHp_Xxv1iU5g6jzHX-48">
+          <mxCell style="text;strokeColor=#666666;fillColor=#f5f5f5;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;fontColor=#333333;" parent="ZXnuHp_Xxv1iU5g6jzHX-47" vertex="1">
+            <mxGeometry y="30" width="140" height="26" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="USB C Power+Control" tags="" id="ZXnuHp_Xxv1iU5g6jzHX-67">
+          <mxCell style="text;strokeColor=#666666;fillColor=default;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;fontColor=#333333;" parent="ZXnuHp_Xxv1iU5g6jzHX-47" vertex="1">
+            <mxGeometry y="56" width="140" height="26" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="Input" tags="" id="ZXnuHp_Xxv1iU5g6jzHX-49">
+          <mxCell style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=#FFE599;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;html=1;rounded=0;swimlaneFillColor=#FFFFC9;points=[];" parent="ZXnuHp_Xxv1iU5g6jzHX-47" vertex="1">
+            <mxGeometry y="82" width="140" height="52" as="geometry">
+              <mxRectangle y="82" width="140" height="30" as="alternateBounds" />
+            </mxGeometry>
+          </mxCell>
+        </UserObject>
+        <UserObject label="HDMI In" tags="" id="ZXnuHp_Xxv1iU5g6jzHX-51">
+          <mxCell style="text;strokeColor=default;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" parent="ZXnuHp_Xxv1iU5g6jzHX-49" vertex="1">
+            <mxGeometry y="26" width="140" height="26" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="Output" tags="" id="ZXnuHp_Xxv1iU5g6jzHX-52">
+          <mxCell style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=#C1C6F0;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;html=1;strokeColor=#82b366;rounded=0;swimlaneFillColor=#E0E0FF;connectable=0;" parent="ZXnuHp_Xxv1iU5g6jzHX-47" vertex="1">
+            <mxGeometry y="134" width="140" height="78" as="geometry">
+              <mxRectangle y="238" width="140" height="30" as="alternateBounds" />
+            </mxGeometry>
+          </mxCell>
+        </UserObject>
+        <UserObject label="SDI Out" tags="" id="ZXnuHp_Xxv1iU5g6jzHX-53">
+          <mxCell style="text;strokeColor=default;fillColor=none;align=right;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" parent="ZXnuHp_Xxv1iU5g6jzHX-52" vertex="1">
+            <mxGeometry y="26" width="140" height="26" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="SDI Out" tags="" id="ZXnuHp_Xxv1iU5g6jzHX-54">
+          <mxCell style="text;strokeColor=default;fillColor=none;align=right;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;labelBackgroundColor=none;labelPosition=center;verticalLabelPosition=middle;" parent="ZXnuHp_Xxv1iU5g6jzHX-52" vertex="1">
+            <mxGeometry y="52" width="140" height="26" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="BMD MiniCon&lt;div style=&quot;font-size: 13px;&quot;&gt;Optical 12G&lt;/div&gt;" tags="" id="ZXnuHp_Xxv1iU5g6jzHX-55">
+          <mxCell style="swimlane;fontStyle=1;childLayout=stackLayout;horizontal=1;startSize=30;fillColor=#d5e8d4;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;html=1;fontSize=13;points=[];strokeColor=#82b366;rounded=1;" parent="1" vertex="1">
+            <mxGeometry x="-800" y="163" width="140" height="238" as="geometry">
+              <mxRectangle x="380" y="243" width="120" height="40" as="alternateBounds" />
+            </mxGeometry>
+          </mxCell>
+        </UserObject>
+        <UserObject label="Info:" tags="" id="ZXnuHp_Xxv1iU5g6jzHX-57">
+          <mxCell style="text;strokeColor=#666666;fillColor=#f5f5f5;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;fontColor=#333333;" parent="ZXnuHp_Xxv1iU5g6jzHX-55" vertex="1">
+            <mxGeometry y="30" width="140" height="26" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="Input" tags="" id="ZXnuHp_Xxv1iU5g6jzHX-58">
+          <mxCell style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=#FFE599;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;html=1;rounded=0;swimlaneFillColor=#FFFFC9;points=[];" parent="ZXnuHp_Xxv1iU5g6jzHX-55" vertex="1">
+            <mxGeometry y="56" width="140" height="78" as="geometry">
+              <mxRectangle y="82" width="140" height="30" as="alternateBounds" />
+            </mxGeometry>
+          </mxCell>
+        </UserObject>
+        <UserObject label="SDI &lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;" tags="" id="ZXnuHp_Xxv1iU5g6jzHX-59">
+          <mxCell style="text;strokeColor=default;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" parent="ZXnuHp_Xxv1iU5g6jzHX-58" vertex="1">
+            <mxGeometry y="26" width="140" height="26" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="Fiber" tags="" id="ZXnuHp_Xxv1iU5g6jzHX-60">
+          <mxCell style="text;strokeColor=default;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" parent="ZXnuHp_Xxv1iU5g6jzHX-58" vertex="1">
+            <mxGeometry y="52" width="140" height="26" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="Genlock" tags="" id="ZXnuHp_Xxv1iU5g6jzHX-62">
+          <mxCell style="text;strokeColor=default;fillColor=default;align=center;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;labelBorderColor=none;rounded=0;glass=0;part=0;" parent="ZXnuHp_Xxv1iU5g6jzHX-55" vertex="1">
+            <mxGeometry y="134" width="140" height="26" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="Output" tags="" id="ZXnuHp_Xxv1iU5g6jzHX-63">
+          <mxCell style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=#C1C6F0;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;html=1;strokeColor=#82b366;rounded=0;swimlaneFillColor=#E0E0FF;connectable=0;" parent="ZXnuHp_Xxv1iU5g6jzHX-55" vertex="1">
+            <mxGeometry y="160" width="140" height="78" as="geometry">
+              <mxRectangle y="238" width="140" height="30" as="alternateBounds" />
+            </mxGeometry>
+          </mxCell>
+        </UserObject>
+        <UserObject label="SDI" tags="" id="ZXnuHp_Xxv1iU5g6jzHX-64">
+          <mxCell style="text;strokeColor=default;fillColor=none;align=right;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" parent="ZXnuHp_Xxv1iU5g6jzHX-63" vertex="1">
+            <mxGeometry y="26" width="140" height="26" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="Fiber" tags="" id="ZXnuHp_Xxv1iU5g6jzHX-65">
+          <mxCell style="text;strokeColor=default;fillColor=none;align=right;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;labelBackgroundColor=none;labelPosition=center;verticalLabelPosition=middle;" parent="ZXnuHp_Xxv1iU5g6jzHX-63" vertex="1">
+            <mxGeometry y="52" width="140" height="26" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="BMD ATEM&lt;div style=&quot;font-size: 13px;&quot;&gt;1M/E Panel&lt;/div&gt;" tags="" id="ZXnuHp_Xxv1iU5g6jzHX-69">
+          <mxCell style="swimlane;fontStyle=1;childLayout=stackLayout;horizontal=1;startSize=30;fillColor=#d5e8d4;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;html=1;fontSize=13;points=[];strokeColor=#82b366;rounded=1;" parent="1" vertex="1">
+            <mxGeometry x="-700" y="-120" width="140" height="134" as="geometry">
+              <mxRectangle x="380" y="243" width="120" height="40" as="alternateBounds" />
+            </mxGeometry>
+          </mxCell>
+        </UserObject>
+        <UserObject label="IP:" tags="" id="ZXnuHp_Xxv1iU5g6jzHX-70">
+          <mxCell style="text;strokeColor=#666666;fillColor=#f5f5f5;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;fontColor=#333333;" parent="ZXnuHp_Xxv1iU5g6jzHX-69" vertex="1">
+            <mxGeometry y="30" width="140" height="26" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="Info:" tags="" id="ZXnuHp_Xxv1iU5g6jzHX-71">
+          <mxCell style="text;strokeColor=#666666;fillColor=#f5f5f5;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;fontColor=#333333;" parent="ZXnuHp_Xxv1iU5g6jzHX-69" vertex="1">
+            <mxGeometry y="56" width="140" height="26" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="Ethernet RJ45" tags="" id="ZXnuHp_Xxv1iU5g6jzHX-81">
+          <mxCell style="text;strokeColor=default;fillColor=none;align=center;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;labelBorderColor=none;rounded=0;glass=0;part=0;" parent="ZXnuHp_Xxv1iU5g6jzHX-69" vertex="1">
+            <mxGeometry y="82" width="140" height="26" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="USB C" tags="" id="ZXnuHp_Xxv1iU5g6jzHX-76">
+          <mxCell style="text;strokeColor=default;fillColor=none;align=center;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;labelBorderColor=none;rounded=0;glass=0;part=0;" parent="ZXnuHp_Xxv1iU5g6jzHX-69" vertex="1">
+            <mxGeometry y="108" width="140" height="26" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="BMD Terranex&lt;div style=&quot;font-size: 13px;&quot;&gt;HDMI-&amp;gt;Optical 12G&lt;/div&gt;" tags="" id="ZXnuHp_Xxv1iU5g6jzHX-82">
+          <mxCell style="swimlane;fontStyle=1;childLayout=stackLayout;horizontal=1;startSize=30;fillColor=#d5e8d4;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;html=1;fontSize=13;points=[];strokeColor=#82b366;rounded=1;" parent="1" vertex="1">
+            <mxGeometry x="-430" y="220" width="140" height="342" as="geometry">
+              <mxRectangle x="380" y="243" width="120" height="40" as="alternateBounds" />
+            </mxGeometry>
+          </mxCell>
+        </UserObject>
+        <UserObject label="Info:" tags="" id="ZXnuHp_Xxv1iU5g6jzHX-84">
+          <mxCell style="text;strokeColor=#666666;fillColor=#f5f5f5;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;fontColor=#333333;" parent="ZXnuHp_Xxv1iU5g6jzHX-82" vertex="1">
+            <mxGeometry y="30" width="140" height="26" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="IP:" tags="" id="ZXnuHp_Xxv1iU5g6jzHX-83">
+          <mxCell style="text;strokeColor=#666666;fillColor=#f5f5f5;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;fontColor=#333333;" parent="ZXnuHp_Xxv1iU5g6jzHX-82" vertex="1">
+            <mxGeometry y="56" width="140" height="26" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="Ethernet RJ45" tags="" id="ZXnuHp_Xxv1iU5g6jzHX-94">
+          <mxCell style="text;align=center;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;labelBorderColor=none;rounded=0;glass=0;part=0;fillColor=default;strokeColor=default;" parent="ZXnuHp_Xxv1iU5g6jzHX-82" vertex="1">
+            <mxGeometry y="82" width="140" height="26" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="Input" tags="" id="ZXnuHp_Xxv1iU5g6jzHX-85">
+          <mxCell style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=#FFE599;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;html=1;rounded=0;swimlaneFillColor=#FFFFC9;points=[];" parent="ZXnuHp_Xxv1iU5g6jzHX-82" vertex="1">
+            <mxGeometry y="108" width="140" height="130" as="geometry">
+              <mxRectangle y="82" width="140" height="30" as="alternateBounds" />
+            </mxGeometry>
+          </mxCell>
+        </UserObject>
+        <UserObject label="HDMI" tags="" id="ZXnuHp_Xxv1iU5g6jzHX-86">
+          <mxCell style="text;strokeColor=default;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" parent="ZXnuHp_Xxv1iU5g6jzHX-85" vertex="1">
+            <mxGeometry y="26" width="140" height="26" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="Fiber&amp;nbsp;" tags="" id="ZXnuHp_Xxv1iU5g6jzHX-87">
+          <mxCell style="text;strokeColor=default;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" parent="ZXnuHp_Xxv1iU5g6jzHX-85" vertex="1">
+            <mxGeometry y="52" width="140" height="26" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="XLR Analog/AES" tags="" id="ZXnuHp_Xxv1iU5g6jzHX-88">
+          <mxCell style="text;strokeColor=default;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" parent="ZXnuHp_Xxv1iU5g6jzHX-85" vertex="1">
+            <mxGeometry y="78" width="140" height="26" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="XLR Analog/AES/TC" tags="" id="ZXnuHp_Xxv1iU5g6jzHX-95">
+          <mxCell style="text;strokeColor=default;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" parent="ZXnuHp_Xxv1iU5g6jzHX-85" vertex="1">
+            <mxGeometry y="104" width="140" height="26" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="Output" tags="" id="ZXnuHp_Xxv1iU5g6jzHX-90">
+          <mxCell style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=#C1C6F0;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;html=1;strokeColor=#82b366;rounded=0;swimlaneFillColor=#E0E0FF;connectable=0;" parent="ZXnuHp_Xxv1iU5g6jzHX-82" vertex="1">
+            <mxGeometry y="238" width="140" height="104" as="geometry">
+              <mxRectangle y="238" width="140" height="30" as="alternateBounds" />
+            </mxGeometry>
+          </mxCell>
+        </UserObject>
+        <UserObject label="SDI" tags="" id="ZXnuHp_Xxv1iU5g6jzHX-91">
+          <mxCell style="text;strokeColor=default;fillColor=none;align=right;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" parent="ZXnuHp_Xxv1iU5g6jzHX-90" vertex="1">
+            <mxGeometry y="26" width="140" height="26" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="Fiber" tags="" id="ZXnuHp_Xxv1iU5g6jzHX-92">
+          <mxCell style="text;strokeColor=default;fillColor=none;align=right;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;labelBackgroundColor=none;labelPosition=center;verticalLabelPosition=middle;" parent="ZXnuHp_Xxv1iU5g6jzHX-90" vertex="1">
+            <mxGeometry y="52" width="140" height="26" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="Item 3" tags="" id="ZXnuHp_Xxv1iU5g6jzHX-93">
+          <mxCell style="text;strokeColor=default;fillColor=none;align=right;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" parent="ZXnuHp_Xxv1iU5g6jzHX-90" vertex="1">
+            <mxGeometry y="78" width="140" height="26" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="Network Switch" tags="Transmission" id="8GhMJ2vR7fBs7lWXIUBx-1">
+          <mxCell style="swimlane;fontStyle=1;childLayout=stackLayout;horizontal=1;startSize=30;fillColor=#d5e8d4;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;html=1;fontSize=13;points=[];strokeColor=#82b366;rounded=1;arcSize=0;" parent="1" vertex="1">
+            <mxGeometry x="-240" y="-250" width="140" height="290" as="geometry">
+              <mxRectangle x="380" y="243" width="120" height="40" as="alternateBounds" />
+            </mxGeometry>
+          </mxCell>
+        </UserObject>
+        <UserObject label="Info:" tags="" id="8GhMJ2vR7fBs7lWXIUBx-2">
+          <mxCell style="text;strokeColor=#666666;fillColor=#f5f5f5;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;fontColor=#333333;" parent="8GhMJ2vR7fBs7lWXIUBx-1" vertex="1">
+            <mxGeometry y="30" width="140" height="26" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="Ethernet" tags="" id="8GhMJ2vR7fBs7lWXIUBx-4">
+          <mxCell style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=#C1C6F0;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;html=1;strokeColor=#82b366;rounded=0;swimlaneFillColor=#E0E0FF;connectable=0;" parent="8GhMJ2vR7fBs7lWXIUBx-1" vertex="1">
+            <mxGeometry y="56" width="140" height="234" as="geometry">
+              <mxRectangle y="82" width="140" height="30" as="alternateBounds" />
+            </mxGeometry>
+          </mxCell>
+        </UserObject>
+        <UserObject label="RJ45 1" tags="" id="8GhMJ2vR7fBs7lWXIUBx-5">
+          <mxCell style="text;strokeColor=default;fillColor=none;align=center;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" parent="8GhMJ2vR7fBs7lWXIUBx-4" vertex="1">
+            <mxGeometry y="26" width="140" height="26" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="Rj45 2" tags="" id="8GhMJ2vR7fBs7lWXIUBx-6">
+          <mxCell style="text;strokeColor=default;fillColor=none;align=center;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;labelBackgroundColor=none;labelPosition=center;verticalLabelPosition=middle;" parent="8GhMJ2vR7fBs7lWXIUBx-4" vertex="1">
+            <mxGeometry y="52" width="140" height="26" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="&lt;span style=&quot;font-size: 12.000001px;&quot;&gt;RJ45 3&lt;/span&gt;" tags="" id="8GhMJ2vR7fBs7lWXIUBx-7">
+          <mxCell style="text;strokeColor=default;fillColor=none;align=center;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" parent="8GhMJ2vR7fBs7lWXIUBx-4" vertex="1">
+            <mxGeometry y="78" width="140" height="26" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="RJ45 4" tags="" id="8GhMJ2vR7fBs7lWXIUBx-8">
+          <mxCell style="text;strokeColor=default;fillColor=none;align=center;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" parent="8GhMJ2vR7fBs7lWXIUBx-4" vertex="1">
+            <mxGeometry y="104" width="140" height="26" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="&lt;span style=&quot;font-size: 12.000001px;&quot;&gt;RJ45 5&lt;/span&gt;" tags="" id="8GhMJ2vR7fBs7lWXIUBx-9">
+          <mxCell style="text;strokeColor=default;fillColor=none;align=center;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" parent="8GhMJ2vR7fBs7lWXIUBx-4" vertex="1">
+            <mxGeometry y="130" width="140" height="26" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="&lt;span style=&quot;font-size: 12.000001px;&quot;&gt;RJ45 6&lt;/span&gt;" tags="" id="8GhMJ2vR7fBs7lWXIUBx-10">
+          <mxCell style="text;strokeColor=default;fillColor=none;align=center;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" parent="8GhMJ2vR7fBs7lWXIUBx-4" vertex="1">
+            <mxGeometry y="156" width="140" height="26" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="&lt;span style=&quot;font-size: 12.000001px;&quot;&gt;RJ45 7&lt;/span&gt;" tags="" id="8GhMJ2vR7fBs7lWXIUBx-11">
+          <mxCell style="text;strokeColor=default;fillColor=none;align=center;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" parent="8GhMJ2vR7fBs7lWXIUBx-4" vertex="1">
+            <mxGeometry y="182" width="140" height="26" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="&lt;span style=&quot;font-size: 12.000001px;&quot;&gt;RJ45 8&lt;/span&gt;" tags="" id="8GhMJ2vR7fBs7lWXIUBx-12">
+          <mxCell style="text;strokeColor=default;fillColor=none;align=center;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;rounded=0;" parent="8GhMJ2vR7fBs7lWXIUBx-4" vertex="1">
+            <mxGeometry y="208" width="140" height="26" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="BMD UltraStudio&amp;nbsp;&lt;div&gt;4k Extreme 3&lt;/div&gt;" tags="" id="8GhMJ2vR7fBs7lWXIUBx-30">
+          <mxCell style="swimlane;fontStyle=1;childLayout=stackLayout;horizontal=1;startSize=30;fillColor=#d5e8d4;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;html=1;fontSize=13;points=[];strokeColor=#82b366;rounded=1;" parent="1" vertex="1">
+            <mxGeometry x="-1180" y="-160" width="140" height="498" as="geometry">
+              <mxRectangle x="380" y="243" width="120" height="40" as="alternateBounds" />
+            </mxGeometry>
+          </mxCell>
+        </UserObject>
+        <UserObject label="Info:" tags="" id="8GhMJ2vR7fBs7lWXIUBx-31">
+          <mxCell style="text;strokeColor=#666666;fillColor=#f5f5f5;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;fontColor=#333333;" parent="8GhMJ2vR7fBs7lWXIUBx-30" vertex="1">
+            <mxGeometry y="30" width="140" height="26" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="Thunderbolt" tags="" id="8GhMJ2vR7fBs7lWXIUBx-48">
+          <mxCell style="text;strokeColor=default;fillColor=default;align=center;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;labelBorderColor=none;rounded=0;glass=0;part=0;" parent="8GhMJ2vR7fBs7lWXIUBx-30" vertex="1">
+            <mxGeometry y="56" width="140" height="26" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="Genlock" tags="" id="8GhMJ2vR7fBs7lWXIUBx-32">
+          <mxCell style="text;strokeColor=default;fillColor=default;align=center;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;labelBorderColor=none;rounded=0;glass=0;part=0;" parent="8GhMJ2vR7fBs7lWXIUBx-30" vertex="1">
+            <mxGeometry y="82" width="140" height="26" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="Input" tags="" id="8GhMJ2vR7fBs7lWXIUBx-37">
+          <mxCell style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=#FFE599;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;html=1;rounded=0;swimlaneFillColor=#FFFFC9;points=[];" parent="8GhMJ2vR7fBs7lWXIUBx-30" vertex="1">
+            <mxGeometry y="108" width="140" height="208" as="geometry">
+              <mxRectangle y="82" width="140" height="30" as="alternateBounds" />
+            </mxGeometry>
+          </mxCell>
+        </UserObject>
+        <UserObject label="SDI 1&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;" tags="" id="8GhMJ2vR7fBs7lWXIUBx-38">
+          <mxCell style="text;strokeColor=default;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" parent="8GhMJ2vR7fBs7lWXIUBx-37" vertex="1">
+            <mxGeometry y="26" width="140" height="26" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="SDI 2" tags="" id="8GhMJ2vR7fBs7lWXIUBx-39">
+          <mxCell style="text;strokeColor=default;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" parent="8GhMJ2vR7fBs7lWXIUBx-37" vertex="1">
+            <mxGeometry y="52" width="140" height="26" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="SDI 3" tags="" id="8GhMJ2vR7fBs7lWXIUBx-45">
+          <mxCell style="text;strokeColor=default;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" parent="8GhMJ2vR7fBs7lWXIUBx-37" vertex="1">
+            <mxGeometry y="78" width="140" height="26" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="SDI 4" tags="" id="8GhMJ2vR7fBs7lWXIUBx-40">
+          <mxCell style="text;strokeColor=default;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" parent="8GhMJ2vR7fBs7lWXIUBx-37" vertex="1">
+            <mxGeometry y="104" width="140" height="26" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="XLR" tags="" id="8GhMJ2vR7fBs7lWXIUBx-51">
+          <mxCell style="text;strokeColor=default;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" parent="8GhMJ2vR7fBs7lWXIUBx-37" vertex="1">
+            <mxGeometry y="130" width="140" height="26" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="XLR" tags="" id="8GhMJ2vR7fBs7lWXIUBx-52">
+          <mxCell style="text;strokeColor=default;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" parent="8GhMJ2vR7fBs7lWXIUBx-37" vertex="1">
+            <mxGeometry y="156" width="140" height="26" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="Fiber" tags="" id="8GhMJ2vR7fBs7lWXIUBx-54">
+          <mxCell style="text;strokeColor=default;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" parent="8GhMJ2vR7fBs7lWXIUBx-37" vertex="1">
+            <mxGeometry y="182" width="140" height="26" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="Output" tags="" id="8GhMJ2vR7fBs7lWXIUBx-41">
+          <mxCell style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=#C1C6F0;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;html=1;strokeColor=#82b366;rounded=0;swimlaneFillColor=#E0E0FF;connectable=0;" parent="8GhMJ2vR7fBs7lWXIUBx-30" vertex="1">
+            <mxGeometry y="316" width="140" height="182" as="geometry">
+              <mxRectangle y="238" width="140" height="30" as="alternateBounds" />
+            </mxGeometry>
+          </mxCell>
+        </UserObject>
+        <UserObject label="SDI 1" tags="" id="8GhMJ2vR7fBs7lWXIUBx-42">
+          <mxCell style="text;strokeColor=default;fillColor=none;align=right;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" parent="8GhMJ2vR7fBs7lWXIUBx-41" vertex="1">
+            <mxGeometry y="26" width="140" height="26" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="SDI 2" tags="" id="8GhMJ2vR7fBs7lWXIUBx-43">
+          <mxCell style="text;strokeColor=default;fillColor=none;align=right;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;labelBackgroundColor=none;labelPosition=center;verticalLabelPosition=middle;" parent="8GhMJ2vR7fBs7lWXIUBx-41" vertex="1">
+            <mxGeometry y="52" width="140" height="26" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="SDI 3" tags="" id="8GhMJ2vR7fBs7lWXIUBx-44">
+          <mxCell style="text;strokeColor=default;fillColor=none;align=right;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" parent="8GhMJ2vR7fBs7lWXIUBx-41" vertex="1">
+            <mxGeometry y="78" width="140" height="26" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="XLR" tags="" id="8GhMJ2vR7fBs7lWXIUBx-46">
+          <mxCell style="text;strokeColor=default;fillColor=none;align=right;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" parent="8GhMJ2vR7fBs7lWXIUBx-41" vertex="1">
+            <mxGeometry y="104" width="140" height="26" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="XLR" tags="" id="8GhMJ2vR7fBs7lWXIUBx-47">
+          <mxCell style="text;strokeColor=default;fillColor=none;align=right;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" parent="8GhMJ2vR7fBs7lWXIUBx-41" vertex="1">
+            <mxGeometry y="130" width="140" height="26" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="Fiber" tags="" id="8GhMJ2vR7fBs7lWXIUBx-53">
+          <mxCell style="text;strokeColor=default;fillColor=none;align=right;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" parent="8GhMJ2vR7fBs7lWXIUBx-41" vertex="1">
+            <mxGeometry y="156" width="140" height="26" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="Video Wireless &lt;br&gt;Receiver" tags="Source" id="Z0n82deFkCdibXW4L0bi-1">
+          <mxCell style="swimlane;fontStyle=1;childLayout=stackLayout;horizontal=1;startSize=30;fillColor=#d5e8d4;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;html=1;fontSize=13;points=[];strokeColor=#82b366;rounded=1;align=center;verticalAlign=middle;fontFamily=Helvetica;fontColor=default;" parent="1" vertex="1">
+            <mxGeometry x="-1110" y="-700" width="140" height="108" as="geometry">
+              <mxRectangle x="380" y="243" width="120" height="40" as="alternateBounds" />
+            </mxGeometry>
+          </mxCell>
+        </UserObject>
+        <UserObject label="Info: CAM 1" tags="" id="Z0n82deFkCdibXW4L0bi-2">
+          <mxCell style="text;strokeColor=#666666;fillColor=#f5f5f5;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;fontColor=default;fontFamily=Helvetica;fontSize=13;fontStyle=1;" parent="Z0n82deFkCdibXW4L0bi-1" vertex="1">
+            <mxGeometry y="30" width="140" height="26" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="Output" tags="" id="Z0n82deFkCdibXW4L0bi-6">
+          <mxCell style="swimlane;fontStyle=1;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=#d5e8d4;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;html=1;strokeColor=#82b366;rounded=0;swimlaneFillColor=#E0E0FF;connectable=0;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=13;fontColor=default;" parent="Z0n82deFkCdibXW4L0bi-1" vertex="1">
+            <mxGeometry y="56" width="140" height="52" as="geometry">
+              <mxRectangle y="238" width="140" height="30" as="alternateBounds" />
+            </mxGeometry>
+          </mxCell>
+        </UserObject>
+        <UserObject label="SDI Out" tags="" id="Z0n82deFkCdibXW4L0bi-7">
+          <mxCell style="text;strokeColor=default;fillColor=none;align=right;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=13;fontColor=default;fontStyle=1;" parent="Z0n82deFkCdibXW4L0bi-6" vertex="1">
+            <mxGeometry y="26" width="140" height="26" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="BMD&amp;nbsp;&lt;div&gt;Micro Studio Camera 4k&lt;/div&gt;" tags="Source" id="Z0n82deFkCdibXW4L0bi-29">
+          <mxCell style="swimlane;fontStyle=1;childLayout=stackLayout;horizontal=1;startSize=30;fillColor=#d5e8d4;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;html=1;fontSize=13;points=[];strokeColor=#82b366;rounded=1;swimlaneLine=1;" parent="1" vertex="1">
+            <mxGeometry x="-1290" y="-496" width="170" height="264" as="geometry">
+              <mxRectangle x="380" y="243" width="120" height="40" as="alternateBounds" />
+            </mxGeometry>
+          </mxCell>
+        </UserObject>
+        <UserObject label="Info: DIRI Cam" tags="" id="Z0n82deFkCdibXW4L0bi-30">
+          <mxCell style="text;strokeColor=#666666;fillColor=#f5f5f5;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;fontColor=#333333;" parent="Z0n82deFkCdibXW4L0bi-29" vertex="1">
+            <mxGeometry y="30" width="170" height="26" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="LANC" tags="" id="Z0n82deFkCdibXW4L0bi-31">
+          <mxCell style="text;strokeColor=#666666;fillColor=default;align=center;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;fontColor=#333333;" parent="Z0n82deFkCdibXW4L0bi-29" vertex="1">
+            <mxGeometry y="56" width="170" height="26" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="Genlock" tags="" id="Z0n82deFkCdibXW4L0bi-39">
+          <mxCell style="text;strokeColor=default;fillColor=default;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5,0,0,0]];portConstraint=eastwest;whiteSpace=wrap;html=1;labelBorderColor=none;rounded=0;glass=0;part=0;" parent="Z0n82deFkCdibXW4L0bi-29" vertex="1">
+            <mxGeometry y="82" width="170" height="26" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="Input" tags="" id="Z0n82deFkCdibXW4L0bi-32">
+          <mxCell style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=#FFE599;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;html=1;rounded=0;swimlaneFillColor=#FFFFC9;points=[];" parent="Z0n82deFkCdibXW4L0bi-29" vertex="1">
+            <mxGeometry y="108" width="170" height="78" as="geometry">
+              <mxRectangle y="82" width="140" height="30" as="alternateBounds" />
+            </mxGeometry>
+          </mxCell>
+        </UserObject>
+        <UserObject label="SDI In&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;" tags="" id="Z0n82deFkCdibXW4L0bi-33">
+          <mxCell style="text;strokeColor=default;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" parent="Z0n82deFkCdibXW4L0bi-32" vertex="1">
+            <mxGeometry y="26" width="170" height="26" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="Audio In 3,5mm TRS" tags="" id="Z0n82deFkCdibXW4L0bi-40">
+          <mxCell style="text;strokeColor=default;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" parent="Z0n82deFkCdibXW4L0bi-32" vertex="1">
+            <mxGeometry y="52" width="170" height="26" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <object label="Output" tags="" id="Z0n82deFkCdibXW4L0bi-35">
+          <mxCell style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=#C1C6F0;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;html=1;strokeColor=#82b366;rounded=0;swimlaneFillColor=#E0E0FF;connectable=0;" parent="Z0n82deFkCdibXW4L0bi-29" vertex="1">
+            <mxGeometry y="186" width="170" height="78" as="geometry">
+              <mxRectangle y="238" width="140" height="30" as="alternateBounds" />
+            </mxGeometry>
+          </mxCell>
+        </object>
+        <UserObject label="SDI Out" tags="" id="Z0n82deFkCdibXW4L0bi-36">
+          <mxCell style="text;strokeColor=default;fillColor=none;align=right;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" parent="Z0n82deFkCdibXW4L0bi-35" vertex="1">
+            <mxGeometry y="26" width="170" height="26" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="HDMI Out" tags="" id="Z0n82deFkCdibXW4L0bi-37">
+          <mxCell style="text;strokeColor=default;fillColor=none;align=right;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;labelBackgroundColor=none;labelPosition=center;verticalLabelPosition=middle;" parent="Z0n82deFkCdibXW4L0bi-35" vertex="1">
+            <mxGeometry y="52" width="170" height="26" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="NEOVO RX-22" tags="Destination" id="Z0n82deFkCdibXW4L0bi-48">
+          <mxCell style="swimlane;fontStyle=1;childLayout=stackLayout;horizontal=1;startSize=30;fillColor=#d5e8d4;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;html=1;fontSize=13;points=[];strokeColor=#82b366;rounded=1;swimlaneLine=1;" parent="1" vertex="1">
+            <mxGeometry x="-1500" y="-630" width="140" height="134" as="geometry">
+              <mxRectangle x="380" y="243" width="120" height="40" as="alternateBounds" />
+            </mxGeometry>
+          </mxCell>
+        </UserObject>
+        <UserObject label="Info:" tags="" id="Z0n82deFkCdibXW4L0bi-49">
+          <mxCell style="text;strokeColor=#666666;fillColor=#f5f5f5;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;fontColor=#333333;" parent="Z0n82deFkCdibXW4L0bi-48" vertex="1">
+            <mxGeometry y="30" width="140" height="26" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="Input" tags="" id="Z0n82deFkCdibXW4L0bi-51">
+          <mxCell style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=#FFE599;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;html=1;rounded=0;swimlaneFillColor=#FFFFC9;points=[];" parent="Z0n82deFkCdibXW4L0bi-48" vertex="1">
+            <mxGeometry y="56" width="140" height="78" as="geometry">
+              <mxRectangle y="82" width="140" height="30" as="alternateBounds" />
+            </mxGeometry>
+          </mxCell>
+        </UserObject>
+        <UserObject label="Analog In" tags="" id="Z0n82deFkCdibXW4L0bi-52">
+          <mxCell style="text;strokeColor=default;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" parent="Z0n82deFkCdibXW4L0bi-51" vertex="1">
+            <mxGeometry y="26" width="140" height="26" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="HDMI In" tags="" id="Z0n82deFkCdibXW4L0bi-53">
+          <mxCell style="text;strokeColor=default;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" parent="Z0n82deFkCdibXW4L0bi-51" vertex="1">
+            <mxGeometry y="52" width="140" height="26" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="MAC PRO2019" tags="" id="Z0n82deFkCdibXW4L0bi-58">
+          <mxCell style="swimlane;fontStyle=1;childLayout=stackLayout;horizontal=1;startSize=30;fillColor=#d5e8d4;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;html=1;fontSize=13;points=[];strokeColor=#82b366;rounded=1;" parent="1" vertex="1">
+            <mxGeometry x="-1460" y="-190" width="140" height="446" as="geometry">
+              <mxRectangle x="380" y="243" width="120" height="40" as="alternateBounds" />
+            </mxGeometry>
+          </mxCell>
+        </UserObject>
+        <UserObject label="Info:" tags="" id="Z0n82deFkCdibXW4L0bi-59">
+          <mxCell style="text;strokeColor=#666666;fillColor=#f5f5f5;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;fontColor=#333333;" parent="Z0n82deFkCdibXW4L0bi-58" vertex="1">
+            <mxGeometry y="30" width="140" height="26" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="Thunderbolt 3 / USB-C" tags="" id="Z0n82deFkCdibXW4L0bi-60">
+          <mxCell style="text;strokeColor=default;fillColor=default;align=center;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;labelBorderColor=none;rounded=0;glass=0;part=0;" parent="Z0n82deFkCdibXW4L0bi-58" vertex="1">
+            <mxGeometry y="56" width="140" height="26" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="Thunderbolt 3 / USB-C" tags="" id="R-i1rr_ca4cLbeROG7H1-36">
+          <mxCell style="text;strokeColor=default;fillColor=default;align=center;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;labelBorderColor=none;rounded=0;glass=0;part=0;" parent="Z0n82deFkCdibXW4L0bi-58" vertex="1">
+            <mxGeometry y="82" width="140" height="26" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="Thunderbolt 3 / USB-C" tags="" id="R-i1rr_ca4cLbeROG7H1-37">
+          <mxCell style="text;strokeColor=default;fillColor=default;align=center;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;labelBorderColor=none;rounded=0;glass=0;part=0;" parent="Z0n82deFkCdibXW4L0bi-58" vertex="1">
+            <mxGeometry y="108" width="140" height="26" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="Thunderbolt 3 / USB-C" tags="" id="R-i1rr_ca4cLbeROG7H1-38">
+          <mxCell style="text;strokeColor=default;fillColor=default;align=center;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;labelBorderColor=none;rounded=0;glass=0;part=0;" parent="Z0n82deFkCdibXW4L0bi-58" vertex="1">
+            <mxGeometry y="134" width="140" height="26" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="USB-C" tags="" id="Z0n82deFkCdibXW4L0bi-86">
+          <mxCell style="text;strokeColor=#666666;fillColor=none;align=center;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;fontColor=#333333;labelBorderColor=none;" parent="Z0n82deFkCdibXW4L0bi-58" vertex="1">
+            <mxGeometry y="160" width="140" height="26" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="USB-A 3" tags="" id="Z0n82deFkCdibXW4L0bi-87">
+          <mxCell style="text;strokeColor=#666666;fillColor=default;align=center;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;fontColor=#333333;labelBorderColor=none;" parent="Z0n82deFkCdibXW4L0bi-58" vertex="1">
+            <mxGeometry y="186" width="140" height="26" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="USB-A 3" tags="" id="Z0n82deFkCdibXW4L0bi-88">
+          <mxCell style="text;strokeColor=#666666;fillColor=default;align=center;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;fontColor=#333333;labelBorderColor=none;" parent="Z0n82deFkCdibXW4L0bi-58" vertex="1">
+            <mxGeometry y="212" width="140" height="26" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="10G Ethernet RJ45" tags="" id="Z0n82deFkCdibXW4L0bi-77">
+          <mxCell style="text;strokeColor=default;fillColor=default;align=center;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;labelBorderColor=none;rounded=0;glass=0;part=0;" parent="Z0n82deFkCdibXW4L0bi-58" vertex="1">
+            <mxGeometry y="238" width="140" height="26" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="10G Ethernet RJ45" tags="" id="Z0n82deFkCdibXW4L0bi-79">
+          <mxCell style="text;strokeColor=default;fillColor=default;align=center;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;labelBorderColor=none;rounded=0;glass=0;part=0;" parent="Z0n82deFkCdibXW4L0bi-58" vertex="1">
+            <mxGeometry y="264" width="140" height="26" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="Input" tags="" id="Z0n82deFkCdibXW4L0bi-62">
+          <mxCell style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=#FFE599;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;html=1;rounded=0;swimlaneFillColor=#FFFFC9;points=[];" parent="Z0n82deFkCdibXW4L0bi-58" vertex="1">
+            <mxGeometry y="290" width="140" height="52" as="geometry">
+              <mxRectangle y="82" width="140" height="30" as="alternateBounds" />
+            </mxGeometry>
+          </mxCell>
+        </UserObject>
+        <UserObject label="Output" tags="" id="Z0n82deFkCdibXW4L0bi-70">
+          <mxCell style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=#C1C6F0;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;html=1;strokeColor=#82b366;rounded=0;swimlaneFillColor=#E0E0FF;connectable=0;" parent="Z0n82deFkCdibXW4L0bi-58" vertex="1">
+            <mxGeometry y="342" width="140" height="104" as="geometry">
+              <mxRectangle y="238" width="140" height="30" as="alternateBounds" />
+            </mxGeometry>
+          </mxCell>
+        </UserObject>
+        <UserObject label="HDMI" tags="" id="Z0n82deFkCdibXW4L0bi-71">
+          <mxCell style="text;strokeColor=default;fillColor=none;align=right;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" parent="Z0n82deFkCdibXW4L0bi-70" vertex="1">
+            <mxGeometry y="26" width="140" height="26" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="Audio 3,5mm TRS" tags="" id="Z0n82deFkCdibXW4L0bi-72">
+          <mxCell style="text;strokeColor=default;fillColor=none;align=right;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;labelBackgroundColor=none;labelPosition=center;verticalLabelPosition=middle;" parent="Z0n82deFkCdibXW4L0bi-70" vertex="1">
+            <mxGeometry y="52" width="140" height="26" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="USB-C" tags="" id="Z0n82deFkCdibXW4L0bi-73">
+          <mxCell style="text;strokeColor=default;fillColor=none;align=right;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" parent="Z0n82deFkCdibXW4L0bi-70" vertex="1">
+            <mxGeometry y="78" width="140" height="26" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="Display" tags="Destination" id="Z0n82deFkCdibXW4L0bi-80">
+          <mxCell style="swimlane;fontStyle=1;childLayout=stackLayout;horizontal=1;startSize=30;fillColor=#d5e8d4;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;html=1;fontSize=13;points=[];strokeColor=#82b366;rounded=1;swimlaneLine=1;" parent="1" vertex="1">
+            <mxGeometry x="-1510" y="-480" width="140" height="134" as="geometry">
+              <mxRectangle x="380" y="243" width="120" height="40" as="alternateBounds" />
+            </mxGeometry>
+          </mxCell>
+        </UserObject>
+        <UserObject label="Info:" tags="" id="Z0n82deFkCdibXW4L0bi-81">
+          <mxCell style="text;strokeColor=#666666;fillColor=#f5f5f5;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;fontColor=#333333;" parent="Z0n82deFkCdibXW4L0bi-80" vertex="1">
+            <mxGeometry y="30" width="140" height="26" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="Input" tags="" id="Z0n82deFkCdibXW4L0bi-82">
+          <mxCell style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=#FFE599;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;html=1;rounded=0;swimlaneFillColor=#FFFFC9;points=[];" parent="Z0n82deFkCdibXW4L0bi-80" vertex="1">
+            <mxGeometry y="56" width="140" height="78" as="geometry">
+              <mxRectangle y="82" width="140" height="30" as="alternateBounds" />
+            </mxGeometry>
+          </mxCell>
+        </UserObject>
+        <UserObject label="USB-C In" tags="" id="Z0n82deFkCdibXW4L0bi-83">
+          <mxCell style="text;strokeColor=default;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" parent="Z0n82deFkCdibXW4L0bi-82" vertex="1">
+            <mxGeometry y="26" width="140" height="26" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="HDMI In" tags="" id="Z0n82deFkCdibXW4L0bi-84">
+          <mxCell style="text;strokeColor=default;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" parent="Z0n82deFkCdibXW4L0bi-82" vertex="1">
+            <mxGeometry y="52" width="140" height="26" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="Projektor" tags="Destination" id="Z0n82deFkCdibXW4L0bi-91">
+          <mxCell style="swimlane;fontStyle=1;childLayout=stackLayout;horizontal=1;startSize=30;fillColor=#d5e8d4;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;html=1;fontSize=13;points=[];strokeColor=#82b366;rounded=1;arcSize=0;" parent="1" vertex="1">
+            <mxGeometry x="-1620" y="-835" width="140" height="186" as="geometry">
+              <mxRectangle x="380" y="243" width="120" height="40" as="alternateBounds" />
+            </mxGeometry>
+          </mxCell>
+        </UserObject>
+        <UserObject label="IP:" tags="" id="Z0n82deFkCdibXW4L0bi-92">
+          <mxCell style="text;strokeColor=#666666;fillColor=#f5f5f5;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;fontColor=#333333;" parent="Z0n82deFkCdibXW4L0bi-91" vertex="1">
+            <mxGeometry y="30" width="140" height="26" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="Info:" tags="" id="Z0n82deFkCdibXW4L0bi-93">
+          <mxCell style="text;strokeColor=#666666;fillColor=#f5f5f5;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;fontColor=#333333;" parent="Z0n82deFkCdibXW4L0bi-91" vertex="1">
+            <mxGeometry y="56" width="140" height="26" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="Ethernet RJ45" tags="" id="Z0n82deFkCdibXW4L0bi-94">
+          <mxCell style="text;strokeColor=default;fillColor=default;align=center;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;labelBorderColor=none;rounded=0;glass=0;part=0;" parent="Z0n82deFkCdibXW4L0bi-91" vertex="1">
+            <mxGeometry y="82" width="140" height="26" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="Input" tags="" id="Z0n82deFkCdibXW4L0bi-95">
+          <mxCell style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=#FFE599;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;html=1;rounded=0;swimlaneFillColor=#FFFFC9;points=[];" parent="Z0n82deFkCdibXW4L0bi-91" vertex="1">
+            <mxGeometry y="108" width="140" height="78" as="geometry">
+              <mxRectangle y="82" width="140" height="30" as="alternateBounds" />
+            </mxGeometry>
+          </mxCell>
+        </UserObject>
+        <UserObject label="HDMI" tags="" id="Z0n82deFkCdibXW4L0bi-96">
+          <mxCell style="text;strokeColor=default;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" parent="Z0n82deFkCdibXW4L0bi-95" vertex="1">
+            <mxGeometry y="26" width="140" height="26" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="SDI" tags="" id="Z0n82deFkCdibXW4L0bi-99">
+          <mxCell style="text;strokeColor=default;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" parent="Z0n82deFkCdibXW4L0bi-95" vertex="1">
+            <mxGeometry y="52" width="140" height="26" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="Trommel" tags="" id="Z0n82deFkCdibXW4L0bi-120">
+          <mxCell style="swimlane;fontStyle=1;childLayout=stackLayout;horizontal=1;startSize=30;fillColor=#d5e8d4;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;html=1;fontSize=13;points=[];strokeColor=#82b366;rounded=1;swimlaneLine=1;" parent="1" vertex="1">
+            <mxGeometry x="-210" y="-510" width="140" height="134" as="geometry">
+              <mxRectangle x="380" y="243" width="120" height="40" as="alternateBounds" />
+            </mxGeometry>
+          </mxCell>
+        </UserObject>
+        <UserObject label="Info:" tags="" id="Z0n82deFkCdibXW4L0bi-121">
+          <mxCell style="text;strokeColor=#666666;fillColor=#f5f5f5;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;fontColor=#333333;" parent="Z0n82deFkCdibXW4L0bi-120" vertex="1">
+            <mxGeometry y="30" width="140" height="26" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="Source:" tags="" id="Z0n82deFkCdibXW4L0bi-129">
+          <mxCell style="text;strokeColor=#666666;fillColor=#f5f5f5;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;fontColor=#333333;" parent="Z0n82deFkCdibXW4L0bi-120" vertex="1">
+            <mxGeometry y="56" width="140" height="26" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="Dest:" tags="" id="Z0n82deFkCdibXW4L0bi-140">
+          <mxCell style="text;strokeColor=#666666;fillColor=#f5f5f5;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;fontColor=#333333;" parent="Z0n82deFkCdibXW4L0bi-120" vertex="1">
+            <mxGeometry y="82" width="140" height="26" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="SDI" tags="" id="Z0n82deFkCdibXW4L0bi-141">
+          <mxCell style="text;strokeColor=default;fillColor=default;align=center;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;labelBorderColor=none;rounded=0;glass=0;part=0;" parent="Z0n82deFkCdibXW4L0bi-120" vertex="1">
+            <mxGeometry y="108" width="140" height="26" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="BMD VideoAssist&lt;div style=&quot;font-size: 13px;&quot;&gt;7&quot;&lt;/div&gt;" tags="Destination Source" id="Z0n82deFkCdibXW4L0bi-166">
+          <mxCell style="swimlane;fontStyle=1;childLayout=stackLayout;horizontal=1;startSize=30;fillColor=#d5e8d4;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;html=1;fontSize=13;points=[];strokeColor=#82b366;rounded=1;arcSize=17;" parent="1" vertex="1">
+            <mxGeometry x="-1610" y="-1150" width="140" height="290" as="geometry">
+              <mxRectangle x="380" y="243" width="120" height="40" as="alternateBounds" />
+            </mxGeometry>
+          </mxCell>
+        </UserObject>
+        <UserObject label="Info:" tags="" id="Z0n82deFkCdibXW4L0bi-167">
+          <mxCell style="text;strokeColor=#666666;fillColor=#f5f5f5;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;fontColor=#333333;" parent="Z0n82deFkCdibXW4L0bi-166" vertex="1">
+            <mxGeometry y="30" width="140" height="26" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="USB C Power+Control" tags="" id="Z0n82deFkCdibXW4L0bi-175">
+          <mxCell style="text;strokeColor=#666666;fillColor=default;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;fontColor=#333333;" parent="Z0n82deFkCdibXW4L0bi-166" vertex="1">
+            <mxGeometry y="56" width="140" height="26" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="SD Card 1" tags="" id="Z0n82deFkCdibXW4L0bi-168">
+          <mxCell style="text;strokeColor=#666666;fillColor=default;align=center;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;fontColor=#333333;" parent="Z0n82deFkCdibXW4L0bi-166" vertex="1">
+            <mxGeometry y="82" width="140" height="26" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="SD Card 2" tags="" id="Z0n82deFkCdibXW4L0bi-176">
+          <mxCell style="text;strokeColor=#666666;fillColor=default;align=center;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;fontColor=#333333;" parent="Z0n82deFkCdibXW4L0bi-166" vertex="1">
+            <mxGeometry y="108" width="140" height="26" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="Input" tags="" id="Z0n82deFkCdibXW4L0bi-169">
+          <mxCell style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=#FFE599;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;html=1;rounded=0;swimlaneFillColor=#FFFFC9;points=[];" parent="Z0n82deFkCdibXW4L0bi-166" vertex="1">
+            <mxGeometry y="134" width="140" height="78" as="geometry">
+              <mxRectangle y="82" width="140" height="30" as="alternateBounds" />
+            </mxGeometry>
+          </mxCell>
+        </UserObject>
+        <UserObject label="HDMI In" tags="" id="Z0n82deFkCdibXW4L0bi-170">
+          <mxCell style="text;strokeColor=default;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" parent="Z0n82deFkCdibXW4L0bi-169" vertex="1">
+            <mxGeometry y="26" width="140" height="26" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="SDI In" tags="" id="Z0n82deFkCdibXW4L0bi-174">
+          <mxCell style="text;strokeColor=default;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" parent="Z0n82deFkCdibXW4L0bi-169" vertex="1">
+            <mxGeometry y="52" width="140" height="26" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="Output" tags="" id="Z0n82deFkCdibXW4L0bi-171">
+          <mxCell style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=#C1C6F0;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;html=1;strokeColor=#82b366;rounded=0;swimlaneFillColor=#E0E0FF;connectable=0;" parent="Z0n82deFkCdibXW4L0bi-166" vertex="1">
+            <mxGeometry y="212" width="140" height="78" as="geometry">
+              <mxRectangle y="238" width="140" height="30" as="alternateBounds" />
+            </mxGeometry>
+          </mxCell>
+        </UserObject>
+        <UserObject label="HDMI Out" tags="" id="Z0n82deFkCdibXW4L0bi-172">
+          <mxCell style="text;strokeColor=default;fillColor=none;align=right;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" parent="Z0n82deFkCdibXW4L0bi-171" vertex="1">
+            <mxGeometry y="26" width="140" height="26" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="SDI Out" tags="" id="Z0n82deFkCdibXW4L0bi-173">
+          <mxCell style="text;strokeColor=default;fillColor=none;align=right;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;labelBackgroundColor=none;labelPosition=center;verticalLabelPosition=middle;" parent="Z0n82deFkCdibXW4L0bi-171" vertex="1">
+            <mxGeometry y="52" width="140" height="26" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="Video Wireless &lt;br&gt;Transmitter" tags="Destination" id="R-i1rr_ca4cLbeROG7H1-6">
+          <mxCell style="swimlane;fontStyle=1;childLayout=stackLayout;horizontal=1;startSize=30;fillColor=#d5e8d4;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;html=1;fontSize=13;points=[];strokeColor=#82b366;rounded=1;align=center;verticalAlign=middle;fontFamily=Helvetica;fontColor=default;" parent="1" vertex="1">
+            <mxGeometry x="-1110" y="-880" width="140" height="160" as="geometry">
+              <mxRectangle x="380" y="243" width="120" height="40" as="alternateBounds" />
+            </mxGeometry>
+          </mxCell>
+        </UserObject>
+        <UserObject label="Info: TopCAM" tags="" id="R-i1rr_ca4cLbeROG7H1-7">
+          <mxCell style="text;strokeColor=#666666;fillColor=#f5f5f5;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;fontColor=default;fontFamily=Helvetica;fontSize=13;fontStyle=1;" parent="R-i1rr_ca4cLbeROG7H1-6" vertex="1">
+            <mxGeometry y="30" width="140" height="26" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="Channel:&amp;nbsp;" tags="" id="R-i1rr_ca4cLbeROG7H1-17">
+          <mxCell style="text;strokeColor=#666666;fillColor=#f5f5f5;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;fontColor=default;fontFamily=Helvetica;fontSize=13;fontStyle=1;" parent="R-i1rr_ca4cLbeROG7H1-6" vertex="1">
+            <mxGeometry y="56" width="140" height="26" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="Input" tags="" id="R-i1rr_ca4cLbeROG7H1-8">
+          <mxCell style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=#FFE599;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;html=1;rounded=0;swimlaneFillColor=#FFFFC9;points=[];" parent="R-i1rr_ca4cLbeROG7H1-6" vertex="1">
+            <mxGeometry y="82" width="140" height="78" as="geometry">
+              <mxRectangle y="82" width="140" height="30" as="alternateBounds" />
+            </mxGeometry>
+          </mxCell>
+        </UserObject>
+        <UserObject label="HDMI In" tags="" id="R-i1rr_ca4cLbeROG7H1-9">
+          <mxCell style="text;strokeColor=default;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" parent="R-i1rr_ca4cLbeROG7H1-8" vertex="1">
+            <mxGeometry y="26" width="140" height="26" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="SDI In" tags="" id="R-i1rr_ca4cLbeROG7H1-10">
+          <mxCell style="text;strokeColor=default;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" parent="R-i1rr_ca4cLbeROG7H1-8" vertex="1">
+            <mxGeometry y="52" width="140" height="26" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="Sony Z90&lt;br&gt;Camcorder" tags="Source" id="R-i1rr_ca4cLbeROG7H1-19">
+          <mxCell style="swimlane;fontStyle=1;childLayout=stackLayout;horizontal=1;startSize=30;fillColor=#d5e8d4;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;html=1;fontSize=13;points=[];strokeColor=#82b366;rounded=1;swimlaneLine=1;" parent="1" vertex="1">
+            <mxGeometry x="-1380" y="-930" width="170" height="290" as="geometry">
+              <mxRectangle x="380" y="243" width="120" height="40" as="alternateBounds" />
+            </mxGeometry>
+          </mxCell>
+        </UserObject>
+        <UserObject label="Info: Cam" tags="" id="R-i1rr_ca4cLbeROG7H1-20">
+          <mxCell style="text;strokeColor=#666666;fillColor=#f5f5f5;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;fontColor=#333333;" parent="R-i1rr_ca4cLbeROG7H1-19" vertex="1">
+            <mxGeometry y="30" width="170" height="26" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="SD Card A" tags="" id="R-i1rr_ca4cLbeROG7H1-32">
+          <mxCell style="text;strokeColor=#666666;fillColor=default;align=center;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;fontColor=#333333;" parent="R-i1rr_ca4cLbeROG7H1-19" vertex="1">
+            <mxGeometry y="56" width="170" height="26" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="SD Card B" tags="" id="R-i1rr_ca4cLbeROG7H1-33">
+          <mxCell style="text;strokeColor=#666666;fillColor=default;align=center;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;fontColor=#333333;" parent="R-i1rr_ca4cLbeROG7H1-19" vertex="1">
+            <mxGeometry y="82" width="170" height="26" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="LANC" tags="" id="R-i1rr_ca4cLbeROG7H1-21">
+          <mxCell style="text;strokeColor=#666666;fillColor=default;align=center;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;fontColor=#333333;" parent="R-i1rr_ca4cLbeROG7H1-19" vertex="1">
+            <mxGeometry y="108" width="170" height="26" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="Input" tags="" id="R-i1rr_ca4cLbeROG7H1-23">
+          <mxCell style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=#FFE599;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;html=1;rounded=0;swimlaneFillColor=#FFFFC9;points=[];" parent="R-i1rr_ca4cLbeROG7H1-19" vertex="1">
+            <mxGeometry y="134" width="170" height="78" as="geometry">
+              <mxRectangle y="134" width="170" height="30" as="alternateBounds" />
+            </mxGeometry>
+          </mxCell>
+        </UserObject>
+        <UserObject label="Audio In 1 XLR" tags="" id="R-i1rr_ca4cLbeROG7H1-25">
+          <mxCell style="text;strokeColor=default;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" parent="R-i1rr_ca4cLbeROG7H1-23" vertex="1">
+            <mxGeometry y="26" width="170" height="26" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="Audio In 2 XLR" tags="" id="R-i1rr_ca4cLbeROG7H1-29">
+          <mxCell style="text;strokeColor=default;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" parent="R-i1rr_ca4cLbeROG7H1-23" vertex="1">
+            <mxGeometry y="52" width="170" height="26" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <object label="Output" tags="" id="R-i1rr_ca4cLbeROG7H1-26">
+          <mxCell style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=#C1C6F0;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;html=1;strokeColor=#82b366;rounded=0;swimlaneFillColor=#E0E0FF;connectable=0;" parent="R-i1rr_ca4cLbeROG7H1-19" vertex="1">
+            <mxGeometry y="212" width="170" height="78" as="geometry">
+              <mxRectangle y="238" width="140" height="30" as="alternateBounds" />
+            </mxGeometry>
+          </mxCell>
+        </object>
+        <UserObject label="SDI Out" tags="" id="R-i1rr_ca4cLbeROG7H1-27">
+          <mxCell style="text;strokeColor=default;fillColor=none;align=right;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" parent="R-i1rr_ca4cLbeROG7H1-26" vertex="1">
+            <mxGeometry y="26" width="170" height="26" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="HDMI Out" tags="" id="R-i1rr_ca4cLbeROG7H1-28">
+          <mxCell style="text;strokeColor=default;fillColor=none;align=right;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;labelBackgroundColor=none;labelPosition=center;verticalLabelPosition=middle;" parent="R-i1rr_ca4cLbeROG7H1-26" vertex="1">
+            <mxGeometry y="52" width="170" height="26" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="PC" tags="Source" id="6HYWD0h1IA4VXW6_8Szg-2">
+          <mxCell style="swimlane;fontStyle=1;childLayout=stackLayout;horizontal=1;startSize=30;fillColor=#d5e8d4;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;html=1;fontSize=13;points=[];strokeColor=#82b366;rounded=1;" parent="1" vertex="1">
+            <mxGeometry x="-1460" y="300" width="140" height="212" as="geometry">
+              <mxRectangle x="380" y="243" width="120" height="40" as="alternateBounds" />
+            </mxGeometry>
+          </mxCell>
+        </UserObject>
+        <UserObject label="Info:" tags="" id="6HYWD0h1IA4VXW6_8Szg-3">
+          <mxCell style="text;strokeColor=#666666;fillColor=#f5f5f5;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;fontColor=#333333;" parent="6HYWD0h1IA4VXW6_8Szg-2" vertex="1">
+            <mxGeometry y="30" width="140" height="26" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="USB&lt;div&gt;&lt;br&gt;&lt;/div&gt;" tags="" id="6HYWD0h1IA4VXW6_8Szg-9">
+          <mxCell style="text;strokeColor=#666666;fillColor=default;align=center;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;fontColor=#333333;labelBorderColor=none;" parent="6HYWD0h1IA4VXW6_8Szg-2" vertex="1">
+            <mxGeometry y="56" width="140" height="26" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="USB" tags="" id="6HYWD0h1IA4VXW6_8Szg-10">
+          <mxCell style="text;strokeColor=#666666;fillColor=default;align=center;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;fontColor=#333333;labelBorderColor=none;" parent="6HYWD0h1IA4VXW6_8Szg-2" vertex="1">
+            <mxGeometry y="82" width="140" height="26" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="Ethernet RJ45" tags="" id="6HYWD0h1IA4VXW6_8Szg-11">
+          <mxCell style="text;strokeColor=default;fillColor=default;align=center;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;labelBorderColor=none;rounded=0;glass=0;part=0;" parent="6HYWD0h1IA4VXW6_8Szg-2" vertex="1">
+            <mxGeometry y="108" width="140" height="26" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="Ethernet RJ45" tags="" id="6HYWD0h1IA4VXW6_8Szg-12">
+          <mxCell style="text;strokeColor=default;fillColor=default;align=center;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;labelBorderColor=none;rounded=0;glass=0;part=0;" parent="6HYWD0h1IA4VXW6_8Szg-2" vertex="1">
+            <mxGeometry y="134" width="140" height="26" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="Output" tags="" id="6HYWD0h1IA4VXW6_8Szg-14">
+          <mxCell style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=#C1C6F0;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;html=1;strokeColor=#82b366;rounded=0;swimlaneFillColor=#E0E0FF;connectable=0;" parent="6HYWD0h1IA4VXW6_8Szg-2" vertex="1">
+            <mxGeometry y="160" width="140" height="52" as="geometry">
+              <mxRectangle y="238" width="140" height="30" as="alternateBounds" />
+            </mxGeometry>
+          </mxCell>
+        </UserObject>
+        <UserObject label="HDMI" tags="" id="6HYWD0h1IA4VXW6_8Szg-15">
+          <mxCell style="text;strokeColor=default;fillColor=none;align=right;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" parent="6HYWD0h1IA4VXW6_8Szg-14" vertex="1">
+            <mxGeometry y="26" width="140" height="26" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="BMD MultiView 4" tags="" id="decByjNxGmWKlVuBQrJL-1">
+          <mxCell style="swimlane;fontStyle=1;childLayout=stackLayout;horizontal=1;startSize=30;fillColor=#d5e8d4;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;html=1;fontSize=13;points=[];strokeColor=#82b366;rounded=1;" parent="1" vertex="1">
+            <mxGeometry x="-260" y="220" width="140" height="316" as="geometry">
+              <mxRectangle x="380" y="243" width="120" height="40" as="alternateBounds" />
+            </mxGeometry>
+          </mxCell>
+        </UserObject>
+        <UserObject label="Info:" tags="" id="decByjNxGmWKlVuBQrJL-3">
+          <mxCell style="text;strokeColor=#666666;fillColor=#f5f5f5;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;fontColor=#333333;" parent="decByjNxGmWKlVuBQrJL-1" vertex="1">
+            <mxGeometry y="30" width="140" height="26" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="IP:" tags="" id="decByjNxGmWKlVuBQrJL-2">
+          <mxCell style="text;strokeColor=#666666;fillColor=#f5f5f5;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;fontColor=#333333;" parent="decByjNxGmWKlVuBQrJL-1" vertex="1">
+            <mxGeometry y="56" width="140" height="26" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="Ethernet RJ45 / PoE+" tags="" id="decByjNxGmWKlVuBQrJL-4">
+          <mxCell style="text;strokeColor=default;fillColor=default;align=center;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;labelBorderColor=none;rounded=0;glass=0;part=0;" parent="decByjNxGmWKlVuBQrJL-1" vertex="1">
+            <mxGeometry y="82" width="140" height="26" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="Input" tags="" id="decByjNxGmWKlVuBQrJL-5">
+          <mxCell style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=#FFE599;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;html=1;rounded=0;swimlaneFillColor=#FFFFC9;points=[];" parent="decByjNxGmWKlVuBQrJL-1" vertex="1">
+            <mxGeometry y="108" width="140" height="130" as="geometry">
+              <mxRectangle y="82" width="140" height="30" as="alternateBounds" />
+            </mxGeometry>
+          </mxCell>
+        </UserObject>
+        <UserObject label="SDI 1" tags="" id="decByjNxGmWKlVuBQrJL-6">
+          <mxCell style="text;strokeColor=default;fillColor=none;align=center;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5,0,0,0],[1,0.5,0,0,0]];portConstraint=eastwest;whiteSpace=wrap;html=1;" parent="decByjNxGmWKlVuBQrJL-5" vertex="1">
+            <mxGeometry y="26" width="140" height="26" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="SDI 2" tags="" id="decByjNxGmWKlVuBQrJL-7">
+          <mxCell style="text;strokeColor=default;fillColor=none;align=center;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5,0,0,0],[1,0.5,0,0,0]];portConstraint=eastwest;whiteSpace=wrap;html=1;" parent="decByjNxGmWKlVuBQrJL-5" vertex="1">
+            <mxGeometry y="52" width="140" height="26" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="SDI 3" tags="" id="decByjNxGmWKlVuBQrJL-8">
+          <mxCell style="text;strokeColor=default;fillColor=none;align=center;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" parent="decByjNxGmWKlVuBQrJL-5" vertex="1">
+            <mxGeometry y="78" width="140" height="26" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="SDI 4" tags="" id="decByjNxGmWKlVuBQrJL-9">
+          <mxCell style="text;strokeColor=default;fillColor=none;align=center;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5,0,0,0],[1,0.5,0,0,0]];portConstraint=eastwest;whiteSpace=wrap;html=1;" parent="decByjNxGmWKlVuBQrJL-5" vertex="1">
+            <mxGeometry y="104" width="140" height="26" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="Output" tags="" id="decByjNxGmWKlVuBQrJL-10">
+          <mxCell style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=#C1C6F0;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;html=1;strokeColor=#82b366;rounded=0;swimlaneFillColor=#E0E0FF;connectable=0;" parent="decByjNxGmWKlVuBQrJL-1" vertex="1">
+            <mxGeometry y="238" width="140" height="78" as="geometry">
+              <mxRectangle y="238" width="140" height="30" as="alternateBounds" />
+            </mxGeometry>
+          </mxCell>
+        </UserObject>
+        <UserObject label="SDI" tags="" id="decByjNxGmWKlVuBQrJL-11">
+          <mxCell style="text;strokeColor=default;fillColor=none;align=right;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" parent="decByjNxGmWKlVuBQrJL-10" vertex="1">
+            <mxGeometry y="26" width="140" height="26" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="HDMI" tags="" id="decByjNxGmWKlVuBQrJL-12">
+          <mxCell style="text;strokeColor=default;fillColor=none;align=right;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;labelBackgroundColor=none;labelPosition=center;verticalLabelPosition=middle;" parent="decByjNxGmWKlVuBQrJL-10" vertex="1">
+            <mxGeometry y="52" width="140" height="26" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="BMD MultiView 16" tags="" id="decByjNxGmWKlVuBQrJL-14">
+          <mxCell style="swimlane;fontStyle=1;childLayout=stackLayout;horizontal=1;startSize=30;fillColor=#d5e8d4;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;html=1;fontSize=13;points=[];strokeColor=#82b366;rounded=1;" parent="1" vertex="1">
+            <mxGeometry x="-100" y="220" width="140" height="784" as="geometry">
+              <mxRectangle x="380" y="243" width="120" height="40" as="alternateBounds" />
+            </mxGeometry>
+          </mxCell>
+        </UserObject>
+        <UserObject label="Info:" tags="" id="decByjNxGmWKlVuBQrJL-15">
+          <mxCell style="text;strokeColor=#666666;fillColor=#f5f5f5;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;fontColor=#333333;" parent="decByjNxGmWKlVuBQrJL-14" vertex="1">
+            <mxGeometry y="30" width="140" height="26" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="IP:" tags="" id="decByjNxGmWKlVuBQrJL-16">
+          <mxCell style="text;strokeColor=#666666;fillColor=#f5f5f5;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;fontColor=#333333;" parent="decByjNxGmWKlVuBQrJL-14" vertex="1">
+            <mxGeometry y="56" width="140" height="26" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="Ethernet RJ45" tags="" id="decByjNxGmWKlVuBQrJL-17">
+          <mxCell style="text;strokeColor=default;fillColor=default;align=center;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;labelBorderColor=none;rounded=0;glass=0;part=0;" parent="decByjNxGmWKlVuBQrJL-14" vertex="1">
+            <mxGeometry y="82" width="140" height="26" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="RS-422" tags="" id="decByjNxGmWKlVuBQrJL-27">
+          <mxCell style="text;strokeColor=default;fillColor=default;align=center;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;labelBorderColor=none;rounded=0;glass=0;part=0;" parent="decByjNxGmWKlVuBQrJL-14" vertex="1">
+            <mxGeometry y="108" width="140" height="26" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="Mini USB" tags="" id="decByjNxGmWKlVuBQrJL-28">
+          <mxCell style="text;strokeColor=default;fillColor=default;align=center;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;labelBorderColor=none;rounded=0;glass=0;part=0;" parent="decByjNxGmWKlVuBQrJL-14" vertex="1">
+            <mxGeometry y="134" width="140" height="26" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="Input" tags="" id="decByjNxGmWKlVuBQrJL-18">
+          <mxCell style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=#FFE599;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;html=1;rounded=0;swimlaneFillColor=#FFFFC9;points=[];" parent="decByjNxGmWKlVuBQrJL-14" vertex="1">
+            <mxGeometry y="160" width="140" height="468" as="geometry">
+              <mxRectangle y="82" width="140" height="30" as="alternateBounds" />
+            </mxGeometry>
+          </mxCell>
+        </UserObject>
+        <UserObject label="Genlock" tags="" id="decByjNxGmWKlVuBQrJL-26">
+          <mxCell style="text;strokeColor=default;fillColor=none;align=center;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;labelBorderColor=none;rounded=0;glass=0;part=0;" parent="decByjNxGmWKlVuBQrJL-18" vertex="1">
+            <mxGeometry y="26" width="140" height="26" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="SDI 1" tags="" id="decByjNxGmWKlVuBQrJL-19">
+          <mxCell style="text;strokeColor=default;fillColor=none;align=center;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5,0,0,0],[1,0.5,0,0,0]];portConstraint=eastwest;whiteSpace=wrap;html=1;" parent="decByjNxGmWKlVuBQrJL-18" vertex="1">
+            <mxGeometry y="52" width="140" height="26" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="SDI 2" tags="" id="decByjNxGmWKlVuBQrJL-20">
+          <mxCell style="text;strokeColor=default;fillColor=none;align=center;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5,0,0,0],[1,0.5,0,0,0]];portConstraint=eastwest;whiteSpace=wrap;html=1;" parent="decByjNxGmWKlVuBQrJL-18" vertex="1">
+            <mxGeometry y="78" width="140" height="26" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="SDI 3" tags="" id="decByjNxGmWKlVuBQrJL-21">
+          <mxCell style="text;strokeColor=default;fillColor=none;align=center;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" parent="decByjNxGmWKlVuBQrJL-18" vertex="1">
+            <mxGeometry y="104" width="140" height="26" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="SDI 4" tags="" id="decByjNxGmWKlVuBQrJL-34">
+          <mxCell style="text;strokeColor=default;fillColor=none;align=center;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5,0,0,0],[1,0.5,0,0,0]];portConstraint=eastwest;whiteSpace=wrap;html=1;" parent="decByjNxGmWKlVuBQrJL-18" vertex="1">
+            <mxGeometry y="130" width="140" height="26" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="SDI 5" tags="" id="decByjNxGmWKlVuBQrJL-38">
+          <mxCell style="text;strokeColor=default;fillColor=none;align=center;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5,0,0,0],[1,0.5,0,0,0]];portConstraint=eastwest;whiteSpace=wrap;html=1;" parent="decByjNxGmWKlVuBQrJL-18" vertex="1">
+            <mxGeometry y="156" width="140" height="26" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="SDI 6" tags="" id="decByjNxGmWKlVuBQrJL-41">
+          <mxCell style="text;strokeColor=default;fillColor=none;align=center;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5,0,0,0],[1,0.5,0,0,0]];portConstraint=eastwest;whiteSpace=wrap;html=1;" parent="decByjNxGmWKlVuBQrJL-18" vertex="1">
+            <mxGeometry y="182" width="140" height="26" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="SDI 7" tags="" id="decByjNxGmWKlVuBQrJL-42">
+          <mxCell style="text;strokeColor=default;fillColor=none;align=center;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5,0,0,0],[1,0.5,0,0,0]];portConstraint=eastwest;whiteSpace=wrap;html=1;" parent="decByjNxGmWKlVuBQrJL-18" vertex="1">
+            <mxGeometry y="208" width="140" height="26" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="SDI 8" tags="" id="decByjNxGmWKlVuBQrJL-45">
+          <mxCell style="text;strokeColor=default;fillColor=none;align=center;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5,0,0,0],[1,0.5,0,0,0]];portConstraint=eastwest;whiteSpace=wrap;html=1;" parent="decByjNxGmWKlVuBQrJL-18" vertex="1">
+            <mxGeometry y="234" width="140" height="26" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="SDI 9" tags="" id="decByjNxGmWKlVuBQrJL-44">
+          <mxCell style="text;strokeColor=default;fillColor=none;align=center;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" parent="decByjNxGmWKlVuBQrJL-18" vertex="1">
+            <mxGeometry y="260" width="140" height="26" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="SDI 10" tags="" id="decByjNxGmWKlVuBQrJL-43">
+          <mxCell style="text;strokeColor=default;fillColor=none;align=center;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5,0,0,0],[1,0.5,0,0,0]];portConstraint=eastwest;whiteSpace=wrap;html=1;" parent="decByjNxGmWKlVuBQrJL-18" vertex="1">
+            <mxGeometry y="286" width="140" height="26" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="SDI 11" tags="" id="decByjNxGmWKlVuBQrJL-40">
+          <mxCell style="text;strokeColor=default;fillColor=none;align=center;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" parent="decByjNxGmWKlVuBQrJL-18" vertex="1">
+            <mxGeometry y="312" width="140" height="26" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="SDI 12" tags="" id="decByjNxGmWKlVuBQrJL-39">
+          <mxCell style="text;strokeColor=default;fillColor=none;align=center;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5,0,0,0],[1,0.5,0,0,0]];portConstraint=eastwest;whiteSpace=wrap;html=1;" parent="decByjNxGmWKlVuBQrJL-18" vertex="1">
+            <mxGeometry y="338" width="140" height="26" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="SDI 13" tags="" id="decByjNxGmWKlVuBQrJL-37">
+          <mxCell style="text;strokeColor=default;fillColor=none;align=center;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5,0,0,0],[1,0.5,0,0,0]];portConstraint=eastwest;whiteSpace=wrap;html=1;" parent="decByjNxGmWKlVuBQrJL-18" vertex="1">
+            <mxGeometry y="364" width="140" height="26" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="SDI 14" tags="" id="decByjNxGmWKlVuBQrJL-36">
+          <mxCell style="text;strokeColor=default;fillColor=none;align=center;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" parent="decByjNxGmWKlVuBQrJL-18" vertex="1">
+            <mxGeometry y="390" width="140" height="26" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="SDI 15" tags="" id="decByjNxGmWKlVuBQrJL-35">
+          <mxCell style="text;strokeColor=default;fillColor=none;align=center;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5,0,0,0],[1,0.5,0,0,0]];portConstraint=eastwest;whiteSpace=wrap;html=1;" parent="decByjNxGmWKlVuBQrJL-18" vertex="1">
+            <mxGeometry y="416" width="140" height="26" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="SDI 16" tags="" id="decByjNxGmWKlVuBQrJL-22">
+          <mxCell style="text;strokeColor=default;fillColor=none;align=center;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5,0,0,0],[1,0.5,0,0,0]];portConstraint=eastwest;whiteSpace=wrap;html=1;" parent="decByjNxGmWKlVuBQrJL-18" vertex="1">
+            <mxGeometry y="442" width="140" height="26" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="Output" tags="" id="decByjNxGmWKlVuBQrJL-23">
+          <mxCell style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=#C1C6F0;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;html=1;strokeColor=#82b366;rounded=0;swimlaneFillColor=#E0E0FF;connectable=0;" parent="decByjNxGmWKlVuBQrJL-14" vertex="1">
+            <mxGeometry y="628" width="140" height="156" as="geometry">
+              <mxRectangle y="238" width="140" height="30" as="alternateBounds" />
+            </mxGeometry>
+          </mxCell>
+        </UserObject>
+        <UserObject label="6G-SDI" tags="" id="decByjNxGmWKlVuBQrJL-24">
+          <mxCell style="text;strokeColor=default;fillColor=none;align=right;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" parent="decByjNxGmWKlVuBQrJL-23" vertex="1">
+            <mxGeometry y="26" width="140" height="26" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="6G-SDI" tags="" id="decByjNxGmWKlVuBQrJL-29">
+          <mxCell style="text;strokeColor=default;fillColor=none;align=right;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" parent="decByjNxGmWKlVuBQrJL-23" vertex="1">
+            <mxGeometry y="52" width="140" height="26" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="HD-SDI" tags="" id="decByjNxGmWKlVuBQrJL-30">
+          <mxCell style="text;strokeColor=default;fillColor=none;align=right;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" parent="decByjNxGmWKlVuBQrJL-23" vertex="1">
+            <mxGeometry y="78" width="140" height="26" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="HD-SDI" tags="" id="decByjNxGmWKlVuBQrJL-31">
+          <mxCell style="text;strokeColor=default;fillColor=none;align=right;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" parent="decByjNxGmWKlVuBQrJL-23" vertex="1">
+            <mxGeometry y="104" width="140" height="26" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="HDMI" tags="" id="decByjNxGmWKlVuBQrJL-25">
+          <mxCell style="text;strokeColor=default;fillColor=none;align=right;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;labelBackgroundColor=none;labelPosition=center;verticalLabelPosition=middle;" parent="decByjNxGmWKlVuBQrJL-23" vertex="1">
+            <mxGeometry y="130" width="140" height="26" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="BMD UltraStudio&amp;nbsp;&lt;div&gt;HD Mini&lt;/div&gt;" tags="" id="decByjNxGmWKlVuBQrJL-50">
+          <mxCell style="swimlane;fontStyle=1;childLayout=stackLayout;horizontal=1;startSize=30;fillColor=#d5e8d4;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;html=1;fontSize=13;points=[];strokeColor=#82b366;rounded=1;" parent="1" vertex="1">
+            <mxGeometry x="-980" y="-170" width="140" height="394" as="geometry">
+              <mxRectangle x="380" y="243" width="120" height="40" as="alternateBounds" />
+            </mxGeometry>
+          </mxCell>
+        </UserObject>
+        <UserObject label="Info:" tags="" id="decByjNxGmWKlVuBQrJL-51">
+          <mxCell style="text;strokeColor=#666666;fillColor=#f5f5f5;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;fontColor=#333333;" parent="decByjNxGmWKlVuBQrJL-50" vertex="1">
+            <mxGeometry y="30" width="140" height="26" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="Thunderbolt 3.0" tags="" id="decByjNxGmWKlVuBQrJL-52">
+          <mxCell style="text;strokeColor=default;fillColor=default;align=center;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;labelBorderColor=none;rounded=0;glass=0;part=0;" parent="decByjNxGmWKlVuBQrJL-50" vertex="1">
+            <mxGeometry y="56" width="140" height="26" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="D-Sub9 Remote" tags="" id="decByjNxGmWKlVuBQrJL-69">
+          <mxCell style="text;strokeColor=default;fillColor=default;align=center;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;labelBorderColor=none;rounded=0;glass=0;part=0;" parent="decByjNxGmWKlVuBQrJL-50" vertex="1">
+            <mxGeometry y="82" width="140" height="26" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="Input" tags="" id="decByjNxGmWKlVuBQrJL-54">
+          <mxCell style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=#FFE599;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;html=1;rounded=0;swimlaneFillColor=#FFFFC9;points=[];" parent="decByjNxGmWKlVuBQrJL-50" vertex="1">
+            <mxGeometry y="108" width="140" height="208" as="geometry">
+              <mxRectangle y="82" width="140" height="30" as="alternateBounds" />
+            </mxGeometry>
+          </mxCell>
+        </UserObject>
+        <UserObject label="Genlock" tags="" id="decByjNxGmWKlVuBQrJL-53">
+          <mxCell style="text;strokeColor=default;fillColor=default;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;labelBorderColor=none;rounded=0;glass=0;part=0;" parent="decByjNxGmWKlVuBQrJL-54" vertex="1">
+            <mxGeometry y="26" width="140" height="26" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="SDI 1&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;" tags="" id="decByjNxGmWKlVuBQrJL-55">
+          <mxCell style="text;strokeColor=default;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" parent="decByjNxGmWKlVuBQrJL-54" vertex="1">
+            <mxGeometry y="52" width="140" height="26" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="Analog A" tags="" id="decByjNxGmWKlVuBQrJL-56">
+          <mxCell style="text;strokeColor=default;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" parent="decByjNxGmWKlVuBQrJL-54" vertex="1">
+            <mxGeometry y="78" width="140" height="26" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="Analog B" tags="" id="decByjNxGmWKlVuBQrJL-57">
+          <mxCell style="text;strokeColor=default;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" parent="decByjNxGmWKlVuBQrJL-54" vertex="1">
+            <mxGeometry y="104" width="140" height="26" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="Analog C" tags="" id="decByjNxGmWKlVuBQrJL-58">
+          <mxCell style="text;strokeColor=default;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" parent="decByjNxGmWKlVuBQrJL-54" vertex="1">
+            <mxGeometry y="130" width="140" height="26" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="Audio L" tags="" id="decByjNxGmWKlVuBQrJL-59">
+          <mxCell style="text;strokeColor=default;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" parent="decByjNxGmWKlVuBQrJL-54" vertex="1">
+            <mxGeometry y="156" width="140" height="26" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="Audio R" tags="" id="decByjNxGmWKlVuBQrJL-60">
+          <mxCell style="text;strokeColor=default;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" parent="decByjNxGmWKlVuBQrJL-54" vertex="1">
+            <mxGeometry y="182" width="140" height="26" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="Output" tags="" id="decByjNxGmWKlVuBQrJL-62">
+          <mxCell style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=#C1C6F0;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;html=1;strokeColor=#82b366;rounded=0;swimlaneFillColor=#E0E0FF;connectable=0;" parent="decByjNxGmWKlVuBQrJL-50" vertex="1">
+            <mxGeometry y="316" width="140" height="78" as="geometry">
+              <mxRectangle y="238" width="140" height="30" as="alternateBounds" />
+            </mxGeometry>
+          </mxCell>
+        </UserObject>
+        <UserObject label="SDI A" tags="" id="decByjNxGmWKlVuBQrJL-63">
+          <mxCell style="text;strokeColor=default;fillColor=none;align=right;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" parent="decByjNxGmWKlVuBQrJL-62" vertex="1">
+            <mxGeometry y="26" width="140" height="26" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="SDI B" tags="" id="decByjNxGmWKlVuBQrJL-64">
+          <mxCell style="text;strokeColor=default;fillColor=none;align=right;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;labelBackgroundColor=none;labelPosition=center;verticalLabelPosition=middle;" parent="decByjNxGmWKlVuBQrJL-62" vertex="1">
+            <mxGeometry y="52" width="140" height="26" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="BMD Hyperdeck &lt;br&gt;Studio HD Mini" tags="Destination Source" id="decByjNxGmWKlVuBQrJL-71">
+          <mxCell style="swimlane;fontStyle=1;childLayout=stackLayout;horizontal=1;startSize=30;fillColor=#d5e8d4;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;html=1;fontSize=13;points=[];strokeColor=#82b366;rounded=1;arcSize=17;" parent="1" vertex="1">
+            <mxGeometry x="-1030" y="410" width="140" height="368" as="geometry">
+              <mxRectangle x="380" y="243" width="120" height="40" as="alternateBounds" />
+            </mxGeometry>
+          </mxCell>
+        </UserObject>
+        <UserObject label="Info:" tags="" id="decByjNxGmWKlVuBQrJL-72">
+          <mxCell style="text;strokeColor=#666666;fillColor=#f5f5f5;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;fontColor=#333333;" parent="decByjNxGmWKlVuBQrJL-71" vertex="1">
+            <mxGeometry y="30" width="140" height="26" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="USB C" tags="" id="decByjNxGmWKlVuBQrJL-73">
+          <mxCell style="text;strokeColor=#666666;fillColor=default;align=right;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;fontColor=#333333;" parent="decByjNxGmWKlVuBQrJL-71" vertex="1">
+            <mxGeometry y="56" width="140" height="26" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="Ethernet RJ45" tags="" id="decByjNxGmWKlVuBQrJL-83">
+          <mxCell style="text;strokeColor=default;fillColor=default;align=center;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;labelBorderColor=none;rounded=0;glass=0;part=0;" parent="decByjNxGmWKlVuBQrJL-71" vertex="1">
+            <mxGeometry y="82" width="140" height="26" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="D-Sub9 Remote" tags="" id="decByjNxGmWKlVuBQrJL-82">
+          <mxCell style="text;strokeColor=default;fillColor=default;align=center;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;labelBorderColor=none;rounded=0;glass=0;part=0;" parent="decByjNxGmWKlVuBQrJL-71" vertex="1">
+            <mxGeometry y="108" width="140" height="26" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="SD Card 1" tags="" id="decByjNxGmWKlVuBQrJL-74">
+          <mxCell style="text;strokeColor=#666666;fillColor=default;align=right;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;fontColor=#333333;" parent="decByjNxGmWKlVuBQrJL-71" vertex="1">
+            <mxGeometry y="134" width="140" height="26" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="SD Card 2" tags="" id="decByjNxGmWKlVuBQrJL-75">
+          <mxCell style="text;strokeColor=#666666;fillColor=default;align=right;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;fontColor=#333333;" parent="decByjNxGmWKlVuBQrJL-71" vertex="1">
+            <mxGeometry y="160" width="140" height="26" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="Genlock" tags="" id="decByjNxGmWKlVuBQrJL-84">
+          <mxCell style="text;strokeColor=default;fillColor=default;align=center;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;labelBorderColor=none;rounded=0;glass=0;part=0;" parent="decByjNxGmWKlVuBQrJL-71" vertex="1">
+            <mxGeometry y="186" width="140" height="26" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="Timecode BNC" tags="" id="decByjNxGmWKlVuBQrJL-86">
+          <mxCell style="text;strokeColor=default;fillColor=default;align=center;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;labelBorderColor=none;rounded=0;glass=0;part=0;" parent="decByjNxGmWKlVuBQrJL-71" vertex="1">
+            <mxGeometry y="212" width="140" height="26" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="Input" tags="" id="decByjNxGmWKlVuBQrJL-76">
+          <mxCell style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=#FFE599;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;html=1;rounded=0;swimlaneFillColor=#FFFFC9;points=[];" parent="decByjNxGmWKlVuBQrJL-71" vertex="1">
+            <mxGeometry y="238" width="140" height="52" as="geometry">
+              <mxRectangle y="82" width="140" height="30" as="alternateBounds" />
+            </mxGeometry>
+          </mxCell>
+        </UserObject>
+        <UserObject label="SDI In" tags="" id="decByjNxGmWKlVuBQrJL-78">
+          <mxCell style="text;strokeColor=default;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" parent="decByjNxGmWKlVuBQrJL-76" vertex="1">
+            <mxGeometry y="26" width="140" height="26" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="Output" tags="" id="decByjNxGmWKlVuBQrJL-79">
+          <mxCell style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=#C1C6F0;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;html=1;strokeColor=#82b366;rounded=0;swimlaneFillColor=#E0E0FF;connectable=0;" parent="decByjNxGmWKlVuBQrJL-71" vertex="1">
+            <mxGeometry y="290" width="140" height="78" as="geometry">
+              <mxRectangle y="238" width="140" height="30" as="alternateBounds" />
+            </mxGeometry>
+          </mxCell>
+        </UserObject>
+        <UserObject label="HDMI Out" tags="" id="decByjNxGmWKlVuBQrJL-80">
+          <mxCell style="text;strokeColor=default;fillColor=none;align=right;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" parent="decByjNxGmWKlVuBQrJL-79" vertex="1">
+            <mxGeometry y="26" width="140" height="26" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="SDI Out" tags="" id="decByjNxGmWKlVuBQrJL-81">
+          <mxCell style="text;strokeColor=default;fillColor=none;align=right;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;labelBackgroundColor=none;labelPosition=center;verticalLabelPosition=middle;" parent="decByjNxGmWKlVuBQrJL-79" vertex="1">
+            <mxGeometry y="52" width="140" height="26" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="nOJQYYJdxE4hK0eDsJ-_-1" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;To-Do&lt;/h1&gt;&lt;p&gt;- Label Feld&lt;/p&gt;&lt;p&gt;- Legende&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;strokeColor=default;fillColor=#D5E8D4;strokeWidth=5.118099999999999;spacingLeft=7.873999999999999;" vertex="1" parent="1">
+          <mxGeometry x="-900" y="-1115" width="180" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="nOJQYYJdxE4hK0eDsJ-_-2" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Farben&lt;/span&gt;&lt;/h1&gt;&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;&lt;span style=&quot;background-color: initial; font-size: 12px; font-weight: normal;&quot;&gt;- Label Feld&lt;/span&gt;&lt;br&gt;&lt;/h1&gt;&lt;p&gt;- Legende&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;strokeColor=default;fillColor=#FFFFFF;strokeWidth=5.118099999999999;spacingLeft=7.873999999999999;" vertex="1" parent="1">
+          <mxGeometry x="-650" y="-1115" width="180" height="205" as="geometry" />
+        </mxCell>
+        <mxCell id="nOJQYYJdxE4hK0eDsJ-_-25" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-947" y="892" width="397" height="238" as="geometry" />
+        </mxCell>
+        <mxCell id="nOJQYYJdxE4hK0eDsJ-_-26" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-947" y="1040" width="147" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="nOJQYYJdxE4hK0eDsJ-_-29" value="Location" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-710" y="750" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="nOJQYYJdxE4hK0eDsJ-_-30" value="Area" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-710" y="790" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="nOJQYYJdxE4hK0eDsJ-_-31" value="Project" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-710" y="820" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="nOJQYYJdxE4hK0eDsJ-_-32" value="Drawn" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-560" y="750" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="nOJQYYJdxE4hK0eDsJ-_-33" value="Last Change" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-560" y="778" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="nOJQYYJdxE4hK0eDsJ-_-34" value="Revision" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-560" y="810" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="nOJQYYJdxE4hK0eDsJ-_-35" value="Sheet" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-430" y="750" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="nOJQYYJdxE4hK0eDsJ-_-37" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="-740" y="980" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="nOJQYYJdxE4hK0eDsJ-_-36" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="nOJQYYJdxE4hK0eDsJ-_-37">
+          <mxGeometry width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="nOJQYYJdxE4hK0eDsJ-_-27" value="Author" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="nOJQYYJdxE4hK0eDsJ-_-37">
+          <mxGeometry width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="nOJQYYJdxE4hK0eDsJ-_-38" value="Customer" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-710" y="850" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Z0n82deFkCdibXW4L0bi-177" value="Connections" parent="0" />
+        <UserObject label="MARSHALL&lt;br&gt;Lipstick CAM" tags="" id="Z0n82deFkCdibXW4L0bi-178">
+          <mxCell style="swimlane;fontStyle=1;childLayout=stackLayout;horizontal=1;startSize=30;fillColor=#d5e8d4;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;html=1;fontSize=13;points=[];strokeColor=#82b366;rounded=1;" parent="Z0n82deFkCdibXW4L0bi-177" vertex="1">
+            <mxGeometry x="-1300" y="-624" width="140" height="108" as="geometry">
+              <mxRectangle x="380" y="243" width="120" height="40" as="alternateBounds" />
+            </mxGeometry>
+          </mxCell>
+        </UserObject>
+        <UserObject label="Info:" tags="" id="Z0n82deFkCdibXW4L0bi-179">
+          <mxCell style="text;strokeColor=#666666;fillColor=#f5f5f5;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;fontColor=#333333;" parent="Z0n82deFkCdibXW4L0bi-178" vertex="1">
+            <mxGeometry y="30" width="140" height="26" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="Output" tags="" id="Z0n82deFkCdibXW4L0bi-184">
+          <mxCell style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=#C1C6F0;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;html=1;strokeColor=#82b366;rounded=0;swimlaneFillColor=#E0E0FF;connectable=0;" parent="Z0n82deFkCdibXW4L0bi-178" vertex="1">
+            <mxGeometry y="56" width="140" height="52" as="geometry">
+              <mxRectangle y="238" width="140" height="30" as="alternateBounds" />
+            </mxGeometry>
+          </mxCell>
+        </UserObject>
+        <UserObject label="SDI" tags="" id="Z0n82deFkCdibXW4L0bi-185">
+          <mxCell style="text;strokeColor=default;fillColor=none;align=right;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" parent="Z0n82deFkCdibXW4L0bi-184" vertex="1">
+            <mxGeometry y="26" width="140" height="26" as="geometry" />
+          </mxCell>
+        </UserObject>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
