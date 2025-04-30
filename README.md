@@ -2,7 +2,7 @@
 
 This [draw.io] Shapes Library can be used to create schematic AV System Drawings.
 
-![Example AV System Diagram](examples/example.png)
+![Example AV System Diagram](Sample_Drawing.png)
 
 
 ## How to Use / Install Library
@@ -13,13 +13,13 @@ or go in `draw.io` to `File` > `Open Library from` > `URL...` and paste followin
 >https://raw.githubusercontent.com/Sitebase/drawio-arei-library/main/AREI
 
 *File -> Open library from -> URL*
-Links GitHub/fe-lit&drawioav/raw/main/aadsad.xml
+![https://raw.githubusercontent.com/Fe-Lit/Drawio-AV-Design/refs/heads/main/AV_Devices_Complete.xml](https://raw.githubusercontent.com/Fe-Lit/Drawio-AV-Design/refs/heads/main/AV_Devices_Complete.xml)
 
 
 1.) Download the .XML File
 2.) Open Draw.io
 3.) *File* Menu -> Select **Open Library**
-4.) Select the XML. file. It should now appear in your Library List
+4.) Select the *AV_Devices_Complete.xml* file. It should now appear in your Library List
 
 ## Tipps
 
@@ -39,6 +39,4 @@ Links GitHub/fe-lit&drawioav/raw/main/aadsad.xml
 - 1.05.2025, Version 1.0
 	- Initial Release
 
-## License
-
-- Do whatever you want but 
+## Licen
