@@ -1,5 +1,16 @@
 # Changelog
 
 
+## Version 1.1
+30.09.2025
+- Small fixes
+- Reorganised the List
+- Added Symbols
+  - Luminex: 30i, 16i
+  - Brainstorm DXD-8
+  - BMD Atem 2 M/E Production Studio 4K, Hyperdeck Studio HD Mini
+  - AJA: OpenGear OG-X-FR, OG-HA5-4K, OG-X-FR 
+
 ## Version 1.0
+1.05.2025
 Initial Release
